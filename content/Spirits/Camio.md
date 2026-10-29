@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Caym (Dictionnaire Infernal)|Caym — Infernal Dictionary]]. **Corresponding accounts.** Bird then sword-bearing human answering in fire, disputation, animal/water voices, thirty legions. The dictionary calls the bird a blackbird; the Goetia calls it a thrush.
+
+[[sources/dictionnaireinfernal.pdf#page=159|Dictionary PDF 159]] · [[sources/dictionnaireinfernal.pdf#page=160|Dictionary PDF 160]] · [[sources/ac_goetia.pdf#page=43|Goetia PDF 43]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

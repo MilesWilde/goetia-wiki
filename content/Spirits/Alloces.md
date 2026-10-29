@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Alocer (Dictionnaire Infernal)|Alocer — Infernal Dictionary]]. **Corresponding accounts.** Mounted lion-faced warrior, fiery face and eyes, astronomy and liberal arts, thirty-six legions. The dictionary writes Alocer; the Goetia writes Alloces.
+
+[[sources/dictionnaireinfernal.pdf#page=35|Dictionary PDF 35]] · [[sources/ac_goetia.pdf#page=42|Goetia PDF 42]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

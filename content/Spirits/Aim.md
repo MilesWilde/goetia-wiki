@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Knowledge|Knowledge]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Haborym (Dictionnaire Infernal)|Haborym — Infernal Dictionary]]. **Corresponding accounts.** The dictionary explicitly calls Haborym Aym; both sources give a three-headed duke riding a viper, carrying fire, with twenty-six legions. The dictionary gives a cat as one head; the Goetia gives a calf. The dictionary also doubts the proposed identity with Raum.
+
+[[sources/dictionnaireinfernal.pdf#page=81|Dictionary PDF 81]] · [[sources/dictionnaireinfernal.pdf#page=328|Dictionary PDF 328]] · [[sources/dictionnaireinfernal.pdf#page=329|Dictionary PDF 329]] · [[sources/ac_goetia.pdf#page=33|Goetia PDF 33]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

@@ -31,3 +31,11 @@ The [[Goetia Explanation of Names|explanatory prayer]] calls Gabriel a messenger
 ## Related notes
 
 [[Goetia Angels and Orders]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Angels/Gabriel (Dictionnaire Infernal)|Gabriel — Infernal Dictionary]]. **Corresponding accounts.** Both sources explicitly identify Gabriel as an angel in ceremonial or cabalistic correspondence lists. the dictionary assigns January and the fourth hour; Goetia places Gabriel in the Iesod/Moon sequence and calls him a messenger. The dictionary assigns a month and an hour; the Goetia gives a different set of ceremonial correspondences.
+
+[[sources/dictionnaireinfernal.pdf#page=481|Dictionary PDF 481]] · [[sources/dictionnaireinfernal.pdf#page=557|Dictionary PDF 557]] · [[sources/ac_goetia.pdf#page=52|Goetia PDF 52]] · [[sources/ac_goetia.pdf#page=70|Goetia PDF 70]] · [[sources/ac_goetia.pdf#page=95|Goetia PDF 95]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

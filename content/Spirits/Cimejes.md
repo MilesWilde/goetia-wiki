@@ -73,3 +73,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Cimeries (Dictionnaire Infernal)|Cimeries — Infernal Dictionary]]. **Corresponding accounts.** Mounted warrior on black horse, grammar/logic/rhetoric, hidden treasure, authority in Africa. The dictionary gives twenty legions; the Goetia gives thirty.
+
+[[sources/dictionnaireinfernal.pdf#page=183|Dictionary PDF 183]] · [[sources/ac_goetia.pdf#page=17|Goetia PDF 17]] · [[sources/ac_goetia.pdf#page=46|Goetia PDF 46]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

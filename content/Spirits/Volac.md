@@ -71,3 +71,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Volac (Dictionnaire Infernal)|Volac — Infernal Dictionary]]. **Corresponding accounts.** Angel-winged child on two-headed dragon, knowledge of serpent retreats, thirty legions. The dictionary mentions the dwellings of planets where the Goetia describes knowledge of hidden treasure.
+
+[[sources/dictionnaireinfernal.pdf#page=708|Dictionary PDF 708]] · [[sources/ac_goetia.pdf#page=45|Goetia PDF 45]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

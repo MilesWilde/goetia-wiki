@@ -30,3 +30,11 @@ The electronic editor later includes Satan with [[Lucifer (Goetia)|Lucifer]], [[
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Satan (Dictionnaire Infernal)|Satan — Infernal Dictionary]]. **Corresponding accounts.** Same named adversary/infernal ruler; both collections identify Satan explicitly. The Goetia discusses Satan in introductory and editorial material, separately from Lucifer and Belial.
+
+[[sources/dictionnaireinfernal.pdf#page=608|Dictionary PDF 608]] · [[sources/dictionnaireinfernal.pdf#page=609|Dictionary PDF 609]] · [[sources/ac_goetia.pdf#page=20|Goetia PDF 20]] · [[sources/ac_goetia.pdf#page=88|Goetia PDF 88]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

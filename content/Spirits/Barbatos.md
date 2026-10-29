@@ -66,3 +66,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Barbatos (Dictionnaire Infernal)|Barbatos — Infernal Dictionary]]. **Corresponding accounts.** Animal speech, treasure hidden by magicians, reconciliation, four royal companions and thirty legions. The dictionary’s archer and Robin Hood comparison does not appear in the Goetia’s bodily description.
+
+[[sources/dictionnaireinfernal.pdf#page=92|Dictionary PDF 92]] · [[sources/ac_goetia.pdf#page=28|Goetia PDF 28]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

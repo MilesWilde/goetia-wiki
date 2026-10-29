@@ -32,3 +32,11 @@ The quarter-king lists vary between passages. The [[Goetia Angelic-Language Conj
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Amoymon (Dictionnaire Infernal)|Amoymon — Infernal Dictionary]]. **Corresponding accounts.** The dictionary explicitly gives Amaimon and rules the East; Goetia's invocation names Amaimon as eastern king. The sources use different lists of quarter kings and give different details about their subordinate spirits.
+
+[[sources/dictionnaireinfernal.pdf#page=36|Dictionary PDF 36]] · [[sources/dictionnaireinfernal.pdf#page=41|Dictionary PDF 41]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]] · [[sources/ac_goetia.pdf#page=64|Goetia PDF 64]] · [[sources/ac_goetia.pdf#page=80|Goetia PDF 80]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

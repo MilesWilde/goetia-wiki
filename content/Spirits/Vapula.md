@@ -63,3 +63,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Vapula (Dictionnaire Infernal)|Vapula — Infernal Dictionary]]. **Corresponding accounts.** Griffin-winged lion, mechanical skills/philosophy and thirty-six legions. The dictionary emphasizes mechanics, philosophy, and understanding; the Goetia names handicrafts, professions, and other sciences.
+
+[[sources/dictionnaireinfernal.pdf#page=695|Dictionary PDF 695]] · [[sources/ac_goetia.pdf#page=45|Goetia PDF 45]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

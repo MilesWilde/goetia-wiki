@@ -32,3 +32,11 @@ This is a mythic comparison in the essay, not a Goetic office or rank.
 - [[Shiva (Goetia)|Shiva]].
 - [[Vishnu (Goetia)|Vishnu]].
 - [[Goetia Entity Index]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Deities/Brahma (Dictionnaire Infernal)|Brahma — Infernal Dictionary]]. **Corresponding accounts.** The dictionary identifies Brahma as the Indian creator deity; Goetia editorial material names Brahma in the Hindu triad. The Goetia uses Brahma in an introductory mythic comparison; the dictionary provides its own religious account.
+
+[[sources/dictionnaireinfernal.pdf#page=130|Dictionary PDF 130]] · [[sources/ac_goetia.pdf#page=18|Goetia PDF 18]] · [[sources/ac_goetia.pdf#page=19|Goetia PDF 19]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

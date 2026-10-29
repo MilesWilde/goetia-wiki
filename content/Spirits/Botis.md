@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]] · [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Otis (Dictionnaire Infernal)|Otis — Infernal Dictionary]]. **Corresponding accounts.** The dictionary explicitly calls Otis Botis; viper then horned/toothed human with sword and sixty legions. The dictionary’s remark about friends and enemies differs from the Goetia’s reconciliation office.
+
+[[sources/dictionnaireinfernal.pdf#page=125|Dictionary PDF 125]] · [[sources/dictionnaireinfernal.pdf#page=523|Dictionary PDF 523]] · [[sources/ac_goetia.pdf#page=31|Goetia PDF 31]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

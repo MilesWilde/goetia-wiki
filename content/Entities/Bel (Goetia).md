@@ -29,3 +29,11 @@ Bel is a figure or object of worship in that biblical narrative, not a numbered 
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Human Figures]] · [[Dragon of Daniel (Goetia)]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Deities/Bel (Dictionnaire Infernal)|Bel — Infernal Dictionary]]. **Shared name.** The dictionary’s Bel entry collects Chaldean creator and demonographic accounts. The existing Goetia Bel note records the worshipped figure destroyed by Daniel. Both sources attest Bel in ancient religious contexts. The name occurs in both sources, but the dictionary’s creator and demonographic accounts differ from the Goetia’s biblical reference.
+
+[[sources/dictionnaireinfernal.pdf#page=100|Dictionary PDF 100]] · [[sources/ac_goetia.pdf#page=62|Goetia PDF 62]] · [[sources/ac_goetia.pdf#page=78|Goetia PDF 78]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

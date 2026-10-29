@@ -76,3 +76,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Bune (Dictionnaire Infernal)|Bune — Infernal Dictionary]]. **Corresponding accounts.** Three-headed dragon, moving bodies and gathering spirits at graves, wealth/eloquence, thirty legions. The dictionary describes communication by signs; the Goetia gives him a pleasing voice.
+
+[[sources/dictionnaireinfernal.pdf#page=137|Dictionary PDF 137]] · [[sources/ac_goetia.pdf#page=34|Goetia PDF 34]] · [[sources/ac_goetia.pdf#page=92|Goetia PDF 92]] · [[sources/ac_goetia.pdf#page=93|Goetia PDF 93]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

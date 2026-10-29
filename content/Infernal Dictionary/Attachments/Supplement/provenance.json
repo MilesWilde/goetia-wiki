@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Only printed pages 213 and 214 supplement the principal scan.",
+  "primary_source": "sources/dictionnaireinfernal.pdf",
+  "primary_missing_notice_pdf_page": 225,
+  "credit": "Source: The Library of Congress, via Internet Archive.",
+  "assets": [
+    {
+      "file": "ia-printed-213.jpg",
+      "edition": "J. Collin de Plancy, Dictionnaire infernal, sixth edition, Paris: Henri Plon, 1863",
+      "holding_library": "The Library of Congress",
+      "digitization_host": "Internet Archive",
+      "item_identifier": "dictionnaireinfe00coll_1",
+      "printed_page": 213,
+      "scan_leaf": 229,
+      "source_page": "https://archive.org/details/dictionnaireinfe00coll_1/page/n229/mode/1up",
+      "download_url": "https://iiif.archive.org/iiif/dictionnaireinfe00coll_1$229/full/1800,/0/default.jpg",
+      "changes": "Downloaded 1800-pixel-wide IIIF rendition; no further image processing.",
+      "sha256": "5db3625833b9d416fe2b594ee89c8354b3a1c2b59424764df176e40d193b2d61",
+      "purpose": "Explicit supplement for a printed page absent from the principal BnF scan."
+    },
+    {
+      "file": "ia-printed-214.jpg",
+      "edition": "J. Collin de Plancy, Dictionnaire infernal, sixth edition, Paris: Henri Plon, 1863",
+      "holding_library": "The Library of Congress",
+      "digitization_host": "Internet Archive",
+      "item_identifier": "dictionnaireinfe00coll_1",
+      "printed_page": 214,
+      "scan_leaf": 230,
+      "source_page": "https://archive.org/details/dictionnaireinfe00coll_1/page/n230/mode/1up",
+      "download_url": "https://iiif.archive.org/iiif/dictionnaireinfe00coll_1$230/full/1800,/0/default.jpg",
+      "changes": "Downloaded 1800-pixel-wide IIIF rendition; no further image processing.",
+      "sha256": "fa2fb8c1c93b5e3e5c5f5da2fc551ee716ad316df1927c9a3fd2f42fb0c430c6",
+      "purpose": "Explicit supplement for a printed page absent from the principal BnF scan."
+    }
+  ]
+}

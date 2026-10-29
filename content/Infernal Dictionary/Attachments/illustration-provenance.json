@@ -1,0 +1,682 @@
+{
+  "source": "sources/dictionnaireinfernal.pdf",
+  "source_sha256": "73c6310451011e4615af117152fd5ac08283e5688c016be7dc2b0bf2b1a03be5",
+  "credit": "Source gallica.bnf.fr / Bibliothèque nationale de France",
+  "edition": "J. Collin de Plancy, Dictionnaire infernal, sixth edition, Paris: Henri Plon, 1863",
+  "method": "Page region rendered with PyMuPDF at 108 dpi; original scan linework retained; crop coordinates are PDF points from the top left. No generated or reconstructed artwork.",
+  "assets": [
+    {
+      "file": "Attachments/Portraits/00-abigor.png",
+      "source_label": "Abigor",
+      "pdf_page": 16,
+      "crop_points": [
+        44.8,
+        480.0755500488281,
+        451.2,
+        901.3663388671876
+      ],
+      "sha256": "302a5b3b063309cfe65e0cd6764800a7ba20a31ab28d0bf6fec8163ba5cf8a9c"
+    },
+    {
+      "file": "Attachments/Portraits/01-adramelech.png",
+      "source_label": "Adramelech",
+      "pdf_page": 21,
+      "crop_points": [
+        224.0,
+        890.325537109375,
+        569.6,
+        1283.6542846679688
+      ],
+      "sha256": "50825e0b0cac737c4f1227b1e415dad32a3ee2819d2e22d8e3608b54736fac7b"
+    },
+    {
+      "file": "Attachments/Portraits/02-alastor.png",
+      "source_label": "Alastor",
+      "pdf_page": 26,
+      "crop_points": [
+        467.2,
+        457.3654953613281,
+        828.8,
+        882.7473896484375
+      ],
+      "sha256": "0e11795ee039dd72a2349602486723afc43e70e0a59a2601fa7a3d32e308befb"
+    },
+    {
+      "file": "Attachments/Portraits/03-alocer.png",
+      "source_label": "Alocer",
+      "pdf_page": 35,
+      "crop_points": [
+        198.4,
+        234.19439648437498,
+        579.2,
+        634.2764904785156
+      ],
+      "sha256": "bf0eb60d08b9b4faecc23dc49f04162e64d075bad412ed901a303c8db3fb5a7a"
+    },
+    {
+      "file": "Attachments/Portraits/04-amduscias.png",
+      "source_label": "Amduscias",
+      "pdf_page": 37,
+      "crop_points": [
+        601.6,
+        885.809087890625,
+        995.2,
+        1283.4533134765625
+      ],
+      "sha256": "b953aaafe2010ac982df841fe8d19008f42175c69806db580d1d9e9804b90610"
+    },
+    {
+      "file": "Attachments/Portraits/05-amon.png",
+      "source_label": "Amon",
+      "pdf_page": 41,
+      "crop_points": [
+        220.8,
+        766.334361328125,
+        576.0,
+        1157.517591796875
+      ],
+      "sha256": "df82ca60bba93797ed779368baffd666c7042308af8f3cb30d2d908bbc5af49a"
+    },
+    {
+      "file": "Attachments/Portraits/06-andras.png",
+      "source_label": "Andras",
+      "pdf_page": 45,
+      "crop_points": [
+        224.0,
+        668.7072143554688,
+        588.8,
+        1050.8256225585938
+      ],
+      "sha256": "ef94078838c3ac843255526d108793a74d191c0b80924378b9bbc5777a6b4b62"
+    },
+    {
+      "file": "Attachments/Portraits/07-asmodee.png",
+      "source_label": "Asmodee",
+      "pdf_page": 68,
+      "crop_points": [
+        54.4,
+        497.406005859375,
+        448.0,
+        908.5949707031251
+      ],
+      "sha256": "fb980b2c173e400fc65636a17a3453b6dee8af95ca6dcb0d3c273bc5c83e61fe"
+    },
+    {
+      "file": "Attachments/Portraits/08-astaroth.png",
+      "source_label": "Astaroth",
+      "pdf_page": 69,
+      "crop_points": [
+        598.4,
+        296.4337763671875,
+        988.8,
+        685.3038916015624
+      ],
+      "sha256": "581253043af3e88c9cb5b0e678ea58cf6280d9c13c72ebaf94a58705bcdcb2fe"
+    },
+    {
+      "file": "Attachments/Portraits/09-azazel.png",
+      "source_label": "Azazel",
+      "pdf_page": 81,
+      "crop_points": [
+        630.4,
+        931.3047912597656,
+        988.8,
+        1328.1494445800781
+      ],
+      "sha256": "eaeda82b8e49cd80b8997933250db1d056a3148e127cdcf830302d145e491418"
+    },
+    {
+      "file": "Attachments/Portraits/10-bael.png",
+      "source_label": "Bael",
+      "pdf_page": 84,
+      "crop_points": [
+        51.2,
+        924.5390209960939,
+        425.6,
+        1316.9692529296876
+      ],
+      "sha256": "199614a1cffc4531d7db9b756e3588035add49ddd6ba304d525e99d5846354ad"
+    },
+    {
+      "file": "Attachments/Portraits/11-balan.png",
+      "source_label": "Balan",
+      "pdf_page": 90,
+      "crop_points": [
+        44.8,
+        208.556455078125,
+        412.8,
+        642.22146484375
+      ],
+      "sha256": "7c3f8a13463abe2c1dee67a1b4792419882a1e4a23424995639f28abbb38e5bf"
+    },
+    {
+      "file": "Attachments/Portraits/12-barbatos.png",
+      "source_label": "Barbatos",
+      "pdf_page": 92,
+      "crop_points": [
+        28.8,
+        602.2634604492188,
+        393.6,
+        996.0511076660156
+      ],
+      "sha256": "f49ce8a4d3096cc0a811f0cbbcd2a142d60000f1f24299c7e7101d32d836e220"
+    },
+    {
+      "file": "Attachments/Portraits/13-behemoth.png",
+      "source_label": "Behemoth",
+      "pdf_page": 99,
+      "crop_points": [
+        224.0,
+        541.3002333984375,
+        582.4,
+        935.2643085937499
+      ],
+      "sha256": "b12c543237f33eac2a2879d400fb61721550a6dcdfcef591725281402a0abc55"
+    },
+    {
+      "file": "Attachments/Portraits/15-belphegor.png",
+      "source_label": "Belphegor",
+      "pdf_page": 102,
+      "crop_points": [
+        32.0,
+        283.329525390625,
+        412.8,
+        692.3826123046874
+      ],
+      "sha256": "be948bc8316b37cac047b46b67a8fe280693b0ecb58594299ca40d26a78c3b7a"
+    },
+    {
+      "file": "Attachments/Portraits/16-berith.png",
+      "source_label": "Berith",
+      "pdf_page": 107,
+      "crop_points": [
+        214.4,
+        304.4678818359375,
+        569.6,
+        709.3453842773438
+      ],
+      "sha256": "7cfb8b00b28647aafedffbdc0a633153b16023d6f01dc0a5e04fd1d3aebe2882"
+    },
+    {
+      "file": "Attachments/Portraits/17-buer.png",
+      "source_label": "Buer",
+      "pdf_page": 136,
+      "crop_points": [
+        460.8,
+        934.3193745117188,
+        854.4,
+        1359.9168120117188
+      ],
+      "sha256": "40ba634739588a9b7f3741e3ff69b2bf2d12b6ea60e7248080c6a9d749675e5f"
+    },
+    {
+      "file": "Attachments/Portraits/18-byleth.png",
+      "source_label": "Byleth",
+      "pdf_page": 138,
+      "crop_points": [
+        73.6,
+        476.29295581054686,
+        361.6,
+        902.6251120605469
+      ],
+      "sha256": "69bcecfaefe8c42a1d09abef6316e3c801f212163d8058d748c00f130d001a1e"
+    },
+    {
+      "file": "Attachments/Portraits/19-cerbere.png",
+      "source_label": "Cerbere",
+      "pdf_page": 162,
+      "crop_points": [
+        448.0,
+        279.9787265625,
+        828.8,
+        699.9468164062499
+      ],
+      "sha256": "9f10b0f894a2091723b19a3fbe7730891b6732b775b1725c5d2572911f1326f1"
+    },
+    {
+      "file": "Attachments/Portraits/22-deumus.png",
+      "source_label": "Deumus",
+      "pdf_page": 222,
+      "crop_points": [
+        22.4,
+        256.0773547363281,
+        403.2,
+        675.1130261230469
+      ],
+      "sha256": "b6bf40c193814292afb02a4367ff5f9ea385250edecf296818c48b9e0802b27d"
+    },
+    {
+      "file": "Attachments/Portraits/23-eurynome.png",
+      "source_label": "Eurynome",
+      "pdf_page": 266,
+      "crop_points": [
+        211.2,
+        206.0236875,
+        579.2,
+        618.0710625
+      ],
+      "sha256": "8c75b7d2184f203f03a01d7abc8717f88c9317181acf474eb1757223b2866c13"
+    },
+    {
+      "file": "Attachments/Portraits/24-flaga.png",
+      "source_label": "Flaga",
+      "pdf_page": 287,
+      "crop_points": [
+        435.2,
+        682.4521640625,
+        851.2,
+        1102.4227265625
+      ],
+      "sha256": "b88c074e45f83744339a187992497549501ad73e0d0745e70b4f34b40ac3a4ee"
+    },
+    {
+      "file": "Attachments/Portraits/25-flauros.png",
+      "source_label": "Flauros",
+      "pdf_page": 290,
+      "crop_points": [
+        217.6,
+        485.5179704589844,
+        572.8,
+        875.8363388671876
+      ],
+      "sha256": "60fc7d505c4f0010973695549b7fc353a67437c0520095f56c42f3ea812d3cc9"
+    },
+    {
+      "file": "Attachments/Portraits/26-forcas.png",
+      "source_label": "Forcas",
+      "pdf_page": 292,
+      "crop_points": [
+        198.4,
+        487.106982421875,
+        595.2,
+        896.2768476562501
+      ],
+      "sha256": "2dc61937bdc1ba9320d66440c9e4868cc4c002df84ab3a8965c9feb5c1852369"
+    },
+    {
+      "file": "Attachments/Portraits/27-furfur.png",
+      "source_label": "Furfur",
+      "pdf_page": 302,
+      "crop_points": [
+        624.0,
+        322.98353613281256,
+        992.0,
+        721.0036513671876
+      ],
+      "sha256": "dad11703bcb4acb5dc317b7776d94e0a237426c54fb6d212581202673995e7e2"
+    },
+    {
+      "file": "Attachments/Portraits/28-ganga-gramma.png",
+      "source_label": "Ganga-Gramma",
+      "pdf_page": 308,
+      "crop_points": [
+        198.4,
+        326.24599609375,
+        579.2,
+        730.7910312500001
+      ],
+      "sha256": "5ab5cbd8e725a3755bea5fcdf1900ea0ebf654154d3e5005fe3354590275dd58"
+    },
+    {
+      "file": "Attachments/Portraits/29-garuda.png",
+      "source_label": "Garuda",
+      "pdf_page": 309,
+      "crop_points": [
+        25.6,
+        890.6868237304689,
+        403.2,
+        1322.8348752441407
+      ],
+      "sha256": "088b4033e7a820dead8eef093d35ebc7a58480a9e9ad4ba49efa0077d75eef76"
+    },
+    {
+      "file": "Attachments/Portraits/30-gomory.png",
+      "source_label": "Gomory",
+      "pdf_page": 319,
+      "crop_points": [
+        48.0,
+        339.7805290527344,
+        393.6,
+        748.8366999511719
+      ],
+      "sha256": "bd64126155eb9b8d116263021b5081b0fc95430abc281720167d74ece78f3a8f"
+    },
+    {
+      "file": "Attachments/Portraits/31-haborym.png",
+      "source_label": "Haborym",
+      "pdf_page": 329,
+      "crop_points": [
+        48.0,
+        244.71300659179687,
+        428.8,
+        655.8308576660156
+      ],
+      "sha256": "6306dc4cfc50c697462755659178a072dd80d88b5cb408cfd786edafdda306e4"
+    },
+    {
+      "file": "Attachments/Portraits/32-ipes.png",
+      "source_label": "Ipes",
+      "pdf_page": 378,
+      "crop_points": [
+        614.4,
+        961.23603515625,
+        979.2,
+        1374.5675302734376
+      ],
+      "sha256": "4444c0ee2a52cfd8e603ae441d0b71967f45ffabe04d86ed714fcf0884bc6158"
+    },
+    {
+      "file": "Attachments/Portraits/34-leonard.png",
+      "source_label": "Leonard",
+      "pdf_page": 416,
+      "crop_points": [
+        588.8,
+        279.9031142578125,
+        969.6,
+        713.0865053710937
+      ],
+      "sha256": "6ffa727ecdcc4ccb115cb0ce8a8bb1cb541b8d465f2d3d232d4a1c1d028ace2c"
+    },
+    {
+      "file": "Attachments/Portraits/35-lucifer.png",
+      "source_label": "Lucifer",
+      "pdf_page": 429,
+      "crop_points": [
+        422.4,
+        487.69853686523436,
+        771.2,
+        879.0999104003905
+      ],
+      "sha256": "b843dffd6f057f90a049da68e3937b8f3ccf7a944bb3577b7c3c24644b1f5f24"
+    },
+    {
+      "file": "Attachments/Portraits/36-malphas.png",
+      "source_label": "Malphas",
+      "pdf_page": 451,
+      "crop_points": [
+        441.6,
+        224.93807226562498,
+        806.4,
+        646.6969577636719
+      ],
+      "sha256": "43596e5b575d2a46ab9b99353526c3601fa122a4962432393925819f31a6ffd1"
+    },
+    {
+      "file": "Attachments/Portraits/37-mammon.png",
+      "source_label": "Mammon",
+      "pdf_page": 451,
+      "crop_points": [
+        441.6,
+        787.2832529296875,
+        812.8,
+        1202.7938586425782
+      ],
+      "sha256": "9118af9c891ca9b67187d6cf99c836c4ac3dbddd1abae63e891106c5ca63d969"
+    },
+    {
+      "file": "Attachments/Portraits/40-moloch.png",
+      "source_label": "Moloch",
+      "pdf_page": 482,
+      "crop_points": [
+        611.2,
+        375.97180786132816,
+        988.8,
+        804.2527368164062
+      ],
+      "sha256": "1768cc53a6637308cd2845c858ebaac4d2f6e8a2350ba781eef10e1b30dd117a"
+    },
+    {
+      "file": "Attachments/Portraits/41-nickar.png",
+      "source_label": "Nickar",
+      "pdf_page": 504,
+      "crop_points": [
+        182.4,
+        906.3820546874999,
+        576.0,
+        1331.2486428222655
+      ],
+      "sha256": "b26d33755d22c02ba32386742051b27d9e3a9c21af85b4e02880ef2da8f236d8"
+    },
+    {
+      "file": "Attachments/Portraits/42-nybbas.png",
+      "source_label": "Nybbas",
+      "pdf_page": 508,
+      "crop_points": [
+        185.6,
+        300.6708618164063,
+        579.2,
+        711.264404296875
+      ],
+      "sha256": "8261320753c11178a27db8f37f0257146eb3307e704727c49ac00cb7ad0ba4c6"
+    },
+    {
+      "file": "Attachments/Portraits/43-orobas.png",
+      "source_label": "Orobas",
+      "pdf_page": 522,
+      "crop_points": [
+        608.0,
+        187.473642578125,
+        992.0,
+        594.1290673828125
+      ],
+      "sha256": "187ab18f1360c4417edc38b27eff7f651f232ccedb450563b075a89545ddaefd"
+    },
+    {
+      "file": "Attachments/Portraits/44-paymon.png",
+      "source_label": "Paymon",
+      "pdf_page": 533,
+      "crop_points": [
+        451.2,
+        241.3121533203125,
+        832.0,
+        638.2071423339844
+      ],
+      "sha256": "260fb624a2103e2012d8b1933ff2606c446012193d23617bce62f310c3277e6c"
+    },
+    {
+      "file": "Attachments/Portraits/45-picollus.png",
+      "source_label": "Picollus",
+      "pdf_page": 551,
+      "crop_points": [
+        60.8,
+        570.89162109375,
+        428.8,
+        983.202236328125
+      ],
+      "sha256": "04c3cb1a760d8a98533d64b25cac702379e3a65ff6674d7fa8ff1b7ebc83be27"
+    },
+    {
+      "file": "Attachments/Portraits/46-pruflas.png",
+      "source_label": "Pruflas",
+      "pdf_page": 574,
+      "crop_points": [
+        211.2,
+        884.9712436523438,
+        601.6,
+        1290.9795561523438
+      ],
+      "sha256": "0f30062a9e3e85443fdfe7c9d7a52b14214c449f71b9fc1effc72ca69837087b"
+    },
+    {
+      "file": "Attachments/Portraits/47-ribesal.png",
+      "source_label": "Ribesal",
+      "pdf_page": 594,
+      "crop_points": [
+        188.8,
+        749.7761762695312,
+        576.0,
+        1153.0171450195312
+      ],
+      "sha256": "d57a725e436c55739b561c3b9d734f9a3e039edceb92ed849d58e25a7722ed48"
+    },
+    {
+      "file": "Attachments/Portraits/48-ronwe.png",
+      "source_label": "Ronwe",
+      "pdf_page": 596,
+      "crop_points": [
+        604.8,
+        551.2256083984374,
+        979.2,
+        983.8736149902344
+      ],
+      "sha256": "c99638917364307e2b6d3add1386a73947b3b689c39150cd109cf4d4eb301afb"
+    },
+    {
+      "file": "Attachments/Portraits/49-scox.png",
+      "source_label": "ScoX",
+      "pdf_page": 613,
+      "crop_points": [
+        460.8,
+        965.0782370605468,
+        832.0,
+        1369.0644758300782
+      ],
+      "sha256": "58238e6637905732ab7cda95738c8cb8570eed5a064b6c03756a2cc6c0ad32c3"
+    },
+    {
+      "file": "Attachments/Portraits/50-stolas.png",
+      "source_label": "Stolas",
+      "pdf_page": 647,
+      "crop_points": [
+        464.0,
+        973.1845512695312,
+        851.2,
+        1400.9938674316406
+      ],
+      "sha256": "884e0e8c366bc3f9bcf44662822a71c59bc55301a3ea9f91b10059bbc2a2c982"
+    },
+    {
+      "file": "Attachments/Portraits/51-tap.png",
+      "source_label": "Tap",
+      "pdf_page": 663,
+      "crop_points": [
+        469.2,
+        371.30712890625,
+        876.8,
+        788.21337890625
+      ],
+      "sha256": "9c08da67eed12b6df51ca5c1fca20dd67a6c71dde2e60184be2636bac1d159ed"
+    },
+    {
+      "file": "Attachments/Portraits/52-volac.png",
+      "source_label": "Volac",
+      "pdf_page": 708,
+      "crop_points": [
+        128.0,
+        554.114408203125,
+        553.6,
+        969.7002143554687
+      ],
+      "sha256": "ee64879207db6b285b36c76458b1fd48b96859cd9af115a30312fbece452338d"
+    },
+    {
+      "file": "Attachments/Portraits/53-wall.png",
+      "source_label": "Wall",
+      "pdf_page": 712,
+      "crop_points": [
+        169.6,
+        560.530783203125,
+        560.0,
+        964.6343710937499
+      ],
+      "sha256": "5b6d41cf071a6d60cf5305bee585f1daeeab31ae4544a311b8ba0c72ae91ff05"
+    },
+    {
+      "file": "Attachments/Portraits/55-yan-gant-y-tan.png",
+      "source_label": "Yan-Gant-Y-Tan",
+      "pdf_page": 719,
+      "crop_points": [
+        22.4,
+        715.3539072265625,
+        432.0,
+        1164.9111791992186
+      ],
+      "sha256": "cb308b1727293eb10c75f1c247dc5ca8159e333885d237e4a5d6fe189e254f21"
+    },
+    {
+      "file": "Attachments/Portraits/56-zaebos.png",
+      "source_label": "Zaebos",
+      "pdf_page": 723,
+      "crop_points": [
+        28.8,
+        952.8912683105468,
+        441.6,
+        1382.4998740234375
+      ],
+      "sha256": "d536a0b93b9cdddcd0ca5b3ac6474d0a6cd0c49a5a6d5a9c05b9dde847c806cc"
+    },
+    {
+      "file": "Attachments/Portraits/57-caim.png",
+      "source_label": "Caim",
+      "pdf_page": 160,
+      "crop_points": [
+        137.6,
+        726.994404296875,
+        438.4,
+        1219.3678872070313
+      ],
+      "sha256": "18835ed31f5b6f8121d9789e093f1909c18a6f0cd02b11c42b7bbf4dd9bfb21e"
+    },
+    {
+      "file": "Attachments/Portraits/58-ukobach.png",
+      "source_label": "Ukobach",
+      "pdf_page": 684,
+      "crop_points": [
+        172.8,
+        825.9537976074218,
+        550.4,
+        1250.7300363769532
+      ],
+      "sha256": "0d256058d8d1aab76e7455f07c022ea2c2f1c68cf9014dd0658b65accbd61dcf"
+    },
+    {
+      "file": "Attachments/Portraits/59-beelzebub.png",
+      "source_label": "Beelzebub",
+      "pdf_page": 102,
+      "crop_points": [
+        444.8,
+        323.1118857421875,
+        828.8,
+        725.3532128906251
+      ],
+      "sha256": "a24c3768d83f53b98fed3a9d776f3463a01ab56f9b7cec5831dd923b7b949823"
+    },
+    {
+      "file": "Attachments/Portraits/60-marchocias.png",
+      "source_label": "Marchocias",
+      "pdf_page": 457,
+      "crop_points": [
+        57.6,
+        192.30787939453126,
+        396.8,
+        583.1271181640625
+      ],
+      "sha256": "30ba141f02384e16646461150985be1109aa74ac8a3eb99761b8c644d34e225f"
+    },
+    {
+      "file": "Attachments/Portraits/61-melchom.png",
+      "source_label": "Melchom",
+      "pdf_page": 465,
+      "crop_points": [
+        444.8,
+        905.7686254882811,
+        812.8,
+        1318.0495170898437
+      ],
+      "sha256": "e94de5ce491ed04d920170bec322749fa98194ba5eafdda3bff6b879195af1be"
+    },
+    {
+      "file": "Attachments/Portraits/62-xaphan.png",
+      "source_label": "Xaphan",
+      "pdf_page": 715,
+      "crop_points": [
+        51.2,
+        519.4687890625,
+        422.4,
+        957.7705798339844
+      ],
+      "sha256": "3e17f4e5d71275352ef6aabb4a6f8d647de45e0bb0b6160ed77dc41deb9ca167"
+    }
+  ],
+  "asset_path_base": "Infernal Dictionary/"
+}

@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Knights|Knight]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Forcas (Dictionnaire Infernal)|Forcas — Infernal Dictionary]]. **Qualified comparison.** The Dictionnaire groups Forças, Forras, and Furcas. Its mounted, white-haired knight and palm-reading and fire-divination functions correspond to Goetia Furcas. The dictionary also includes functions and a legion count associated with Goetia Foras; its combined account remains ambiguous.
+
+[[sources/dictionnaireinfernal.pdf#page=292|Dictionary PDF 292]] · [[sources/dictionnaireinfernal.pdf#page=293|Dictionary PDF 293]] · [[sources/ac_goetia.pdf#page=42|Goetia PDF 42]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

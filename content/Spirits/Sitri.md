@@ -63,3 +63,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Princes and Prelates|Prince]].
 
 Offices: [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Sytry (Dictionnaire Infernal)|Sytry — Infernal Dictionary]]. **Corresponding accounts.** Leopard with griffin wings becoming beautiful human, inflaming passions. The dictionary gives seventy legions; the Goetia gives sixty. Their descriptions of revealing secrets also differ.
+
+[[sources/dictionnaireinfernal.pdf#page=112|Dictionary PDF 112]] · [[sources/dictionnaireinfernal.pdf#page=657|Dictionary PDF 657]] · [[sources/ac_goetia.pdf#page=30|Goetia PDF 30]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

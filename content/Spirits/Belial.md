@@ -68,3 +68,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]].
 
 Offices: [[Goetia Offices and Motifs#Dignity and service|Dignity and service]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Belial (Dictionnaire Infernal)|Belial — Infernal Dictionary]]. **Corresponding accounts.** King created after Lucifer, beautiful angelic appearance and fiery chariot, conditional truthfulness, brass-vessel story. The dictionary expands the narrative beyond the Goetia’s numbered catalogue entry.
+
+[[sources/dictionnaireinfernal.pdf#page=100|Dictionary PDF 100]] · [[sources/dictionnaireinfernal.pdf#page=101|Dictionary PDF 101]] · [[sources/ac_goetia.pdf#page=47|Goetia PDF 47]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]] · [[sources/ac_goetia.pdf#page=94|Goetia PDF 94]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

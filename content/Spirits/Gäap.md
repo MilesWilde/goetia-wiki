@@ -78,3 +78,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]] · [[Goetia Ranks#Princes and Prelates|Prince]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Tap (Dictionnaire Infernal)|Tap — Infernal Dictionary]]. **Corresponding accounts.** The dictionary explicitly calls Tap Gaap; human leading/commanding four kings, love/hate, rapid transport, Amaymon relationship, sixty legions. This comparison concerns the numbered Goetia Gaap, whose note is distinct from the separately listed quarter king Goap.
+
+[[sources/dictionnaireinfernal.pdf#page=302|Dictionary PDF 302]] · [[sources/dictionnaireinfernal.pdf#page=663|Dictionary PDF 663]] · [[sources/ac_goetia.pdf#page=36|Goetia PDF 36]] · [[sources/ac_goetia.pdf#page=37|Goetia PDF 37]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]] · [[sources/ac_goetia.pdf#page=93|Goetia PDF 93]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

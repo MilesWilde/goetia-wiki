@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Pursan (Dictionnaire Infernal)|Pursan — Infernal Dictionary]]. **Corresponding accounts.** Lion-faced man on bear carrying snake, trumpets, hidden treasure and times, twenty-two legions. The dictionary’s Curson spelling does not establish an identity with the Goetia’s separately listed quarter king Corson.
+
+[[sources/dictionnaireinfernal.pdf#page=576|Dictionary PDF 576]] · [[sources/ac_goetia.pdf#page=32|Goetia PDF 32]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

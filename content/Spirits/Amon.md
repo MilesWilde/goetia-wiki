@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Amon (Dictionnaire Infernal)|Amon — Infernal Dictionary]]. **Corresponding accounts.** Wolf with serpent tail and flames, later bird-headed human, marquis, reconciliation and forty legions. The dictionary describes an owl’s head; the Goetia describes a raven’s head.
+
+[[sources/dictionnaireinfernal.pdf#page=41|Dictionary PDF 41]] · [[sources/ac_goetia.pdf#page=28|Goetia PDF 28]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

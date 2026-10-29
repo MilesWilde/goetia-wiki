@@ -71,3 +71,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Raum (Dictionnaire Infernal)|Raum — Infernal Dictionary]]. **Corresponding accounts.** Crow-form count, destruction of cities, former Thrones and thirty legions. The dictionary says he grants dignities; the Goetia says he destroys them. The dictionary doubts an identification with Haborym.
+
+[[sources/dictionnaireinfernal.pdf#page=583|Dictionary PDF 583]] · [[sources/ac_goetia.pdf#page=39|Goetia PDF 39]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

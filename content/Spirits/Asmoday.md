@@ -69,3 +69,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Asmodeus (Dictionnaire Infernal)|Asmodeus — Infernal Dictionary]]. **Corresponding accounts.** The dictionary explicitly gives Asmodai; the bull/human/ram heads, serpent tail, dragon mount and lance correspond to Asmoday. The dictionary attributes the identification with Samael to some authorities, rather than establishing a universal identity.
+
+[[sources/dictionnaireinfernal.pdf#page=67|Dictionary PDF 67]] · [[sources/dictionnaireinfernal.pdf#page=68|Dictionary PDF 68]] · [[sources/ac_goetia.pdf#page=36|Goetia PDF 36]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]] · [[sources/ac_goetia.pdf#page=93|Goetia PDF 93]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

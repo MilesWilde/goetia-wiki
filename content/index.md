@@ -1,20 +1,25 @@
 ---
-title: Goetia Wiki
-aliases: []
-tags: [reference/goetia]
+title: Goetia & Infernal Dictionary
 ---
 
-# Goetia Wiki
+# Goetia & Infernal Dictionary
 
-A source-based reference to the 72 spirits, named figures, rituals, and illustrations in the 1904 Mathers–Crowley Goetia, with citations to the supplied edition.
+An interwoven English reference to the spirits, deities, angels, and other named
+beings described in two historical books. Browse both collections together,
+follow their connections, and compare each book's account with its cited pages.
 
-- [[Goetia Entity Index]] — the numbered spirit catalogue and subject indexes.
-- [[Goetia Name Directory]] — named figures, beings, and alternate names.
-- [[Goetia Ranks]] — titles and overlapping rank groups.
-- [[Goetia Offices and Motifs]] — subjects and attributes in the text.
-- [[Goetia Conjurations]] — guides to the ritual sections.
-- [[Goetia Historical Context]] — textual history and contextual sources.
-- [[Goetia Illustrations]] — seals, diagrams, and comparative imagery.
-- [[Goetia Source Guide]] — the edition, evidence layers, and citation conventions.
+- [[Entity Directory|Browse all names]] — a shared alphabetical directory with links to both accounts where applicable.
+- [[Source Comparisons|Compare the books]] — reviewed correspondences, shared names, and differences.
+- [[Goetia Entity Index|The Goetia]] — the 72 numbered spirits, ranks, rituals, and supplementary names in the 1904 Mathers–Crowley edition.
+- [[Infernal Dictionary/Infernal Entity Index|The Infernal Dictionary]] — English profiles of demons and named supernatural beings from Collin de Plancy's 1863 dictionary.
 
-[[sources/ac_goetia.pdf|Read the source PDF]].
+## Images and original sources
+
+- [[Goetia Illustrations|Goetia seals and diagrams]] · [[Infernal Dictionary/Infernal Illustrations|Infernal Dictionary portraits]]
+- [[Goetia Source Guide|Goetia source guide]] · [[Infernal Dictionary/Infernal Source Guide|Infernal Dictionary source guide]]
+- [[sources/ac_goetia.pdf|Goetia PDF]] · [[sources/dictionnaireinfernal.pdf|Dictionnaire infernal PDF (French original)]]
+
+Use search to find names and alternate spellings across both books. Backlinks
+and the graph show connections throughout this wiki. The English summaries
+retain the books' different descriptions and historical perspectives; uncertain
+identifications are labelled as comparisons.

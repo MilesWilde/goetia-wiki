@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Zaebos (Dictionnaire Infernal)|Zaebos — Infernal Dictionary]]. **Corresponding accounts.** Handsome soldier on crocodile with ducal crown and mild disposition is the distinctive Sallos appearance. The dictionary calls him a count and gives no love-related office in its brief entry.
+
+[[sources/dictionnaireinfernal.pdf#page=723|Dictionary PDF 723]] · [[sources/ac_goetia.pdf#page=32|Goetia PDF 32]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

@@ -63,3 +63,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Forneus (Dictionnaire Infernal)|Forneus — Infernal Dictionary]]. **Corresponding accounts.** Infernal marquis in sea-monster form, instruction/social favour, twenty-nine legions of Thrones and Angels. The dictionary’s wording about friends and enemies differs from the Goetia’s promise of general favour.
+
+[[sources/dictionnaireinfernal.pdf#page=293|Dictionary PDF 293]] · [[sources/ac_goetia.pdf#page=35|Goetia PDF 35]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

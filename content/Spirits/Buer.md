@@ -68,3 +68,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Buer (Dictionnaire Infernal)|Buer — Infernal Dictionary]]. **Corresponding accounts.** President teaching philosophy, logic and medicinal plants, healing and familiars. The dictionary’s five-branched wheel appearance is more specific than the Goetia’s description.
+
+[[sources/dictionnaireinfernal.pdf#page=136|Dictionary PDF 136]] · [[sources/ac_goetia.pdf#page=29|Goetia PDF 29]] · [[sources/ac_goetia.pdf#page=93|Goetia PDF 93]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

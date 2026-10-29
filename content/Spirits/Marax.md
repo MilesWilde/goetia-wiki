@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Earls and Counts|Earl]] · [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Morax (Dictionnaire Infernal)|Morax — Infernal Dictionary]]. **Corresponding accounts.** Bull form, astronomy/liberal arts and wise familiars; Goetia explicitly gives Morax as alias. The dictionary gives thirty-six legions; the Goetia gives thirty. The dictionary’s Forai spelling does not establish an identity with Foras.
+
+[[sources/dictionnaireinfernal.pdf#page=292|Dictionary PDF 292]] · [[sources/dictionnaireinfernal.pdf#page=485|Dictionary PDF 485]] · [[sources/ac_goetia.pdf#page=33|Goetia PDF 33]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

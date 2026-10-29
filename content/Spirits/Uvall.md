@@ -72,3 +72,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Wall (Dictionnaire Infernal)|Wall — Infernal Dictionary]]. **Corresponding accounts.** Dromedary becoming human, Egyptian speech, knowledge of times, former Powers. The dictionary gives thirty-six legions; the Goetia gives thirty-seven.
+
+[[sources/dictionnaireinfernal.pdf#page=711|Dictionary PDF 711]] · [[sources/ac_goetia.pdf#page=41|Goetia PDF 41]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

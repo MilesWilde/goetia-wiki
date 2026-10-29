@@ -27,3 +27,11 @@ The passage gives no individual description, direction, or legion count for Sama
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Samael (Dictionnaire Infernal)|Samael — Infernal Dictionary]]. **Shared name.** Same rabbinic princely demon named in both sources. The Goetia briefly attests the name. The dictionary’s identification with Asmodeus is attributed to some authorities.
+
+[[sources/dictionnaireinfernal.pdf#page=606|Dictionary PDF 606]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

@@ -28,3 +28,11 @@ This PDF supplies no complete appearance or office profile for Pruflas. His pres
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Pruflas (Dictionnaire Infernal)|Pruflas — Infernal Dictionary]]. **Corresponding accounts.** The dictionary calls Pruflas or Busas a prince/duke; Goetia electronic editor explicitly names Pruflas/Bufas as Wier's omitted prince/duke. The Goetia discusses Pruflas outside its numbered catalogue of seventy-two spirits.
+
+[[sources/dictionnaireinfernal.pdf#page=574|Dictionary PDF 574]] · [[sources/ac_goetia.pdf#page=91|Goetia PDF 91]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

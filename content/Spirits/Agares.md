@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Agares (Dictionnaire Infernal)|Agares — Infernal Dictionary]]. **Corresponding accounts.** Crocodile mount, hawk on the fist, languages, and thirty-one legions identify this correspondence. The dictionary says he grants dignities; the Goetia says he destroys them.
+
+[[sources/dictionnaireinfernal.pdf#page=22|Dictionary PDF 22]] · [[sources/dictionnaireinfernal.pdf#page=23|Dictionary PDF 23]] · [[sources/ac_goetia.pdf#page=27|Goetia PDF 27]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

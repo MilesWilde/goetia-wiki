@@ -63,3 +63,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]].
 
 Offices: [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Bael (Dictionnaire Infernal)|Bael — Infernal Dictionary]]. **Corresponding accounts.** Eastern king with toad/cat/human features, hoarse voice, invisibility and sixty-six legions. The dictionary separately discusses Baal and asks whether the two names refer to the same being.
+
+[[sources/dictionnaireinfernal.pdf#page=84|Dictionary PDF 84]] · [[sources/ac_goetia.pdf#page=27|Goetia PDF 27]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

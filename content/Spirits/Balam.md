@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Balan (Dictionnaire Infernal)|Balan — Infernal Dictionary]]. **Corresponding accounts.** Bull/human/ram heads, serpent tail, fiery eyes, bear mount and hawk identify Balam. The dictionary’s Balan is the demon; its separate Balaam entry concerns a human figure.
+
+[[sources/dictionnaireinfernal.pdf#page=89|Dictionary PDF 89]] · [[sources/ac_goetia.pdf#page=42|Goetia PDF 42]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

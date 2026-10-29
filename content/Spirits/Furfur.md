@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Furfur (Dictionnaire Infernal)|Furfur — Infernal Dictionary]]. **Corresponding accounts.** Stag with fiery tail, triangle constraint, angel form, love and storms. Each account gives its own conditions governing the spirit’s truthful answers.
+
+[[sources/dictionnaireinfernal.pdf#page=302|Dictionary PDF 302]] · [[sources/ac_goetia.pdf#page=37|Goetia PDF 37]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

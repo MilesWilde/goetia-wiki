@@ -71,3 +71,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Berith (Dictionnaire Infernal)|Berith — Infernal Dictionary]]. **Corresponding accounts.** Red soldier on a red horse with crown; Bé(a)l/Bolfri alternate names, metals to gold and dignities. The dictionary leaves uncertain whether its later familiar-spirit anecdote concerns this same Berith.
+
+[[sources/dictionnaireinfernal.pdf#page=106|Dictionary PDF 106]] · [[sources/dictionnaireinfernal.pdf#page=107|Dictionary PDF 107]] · [[sources/ac_goetia.pdf#page=34|Goetia PDF 34]] · [[sources/ac_goetia.pdf#page=35|Goetia PDF 35]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

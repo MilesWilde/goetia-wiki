@@ -28,3 +28,11 @@ This reference belongs to a literary comparison in a note on the vessel. It does
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Spirits/Sakhar (Dictionnaire Infernal)|Sakhar — Infernal Dictionary]]. **Qualified comparison.** Dictionnaire Sakhar usurps Solomon’s throne and is later subdued by him. Goetia Sakhr/Sacar appears in a comparison with the Arabian Nights fisherman and brass-vessel story. The similar name and Solomon-related spirit context support comparison, but the sources do not explicitly equate their different narratives.
+
+[[sources/dictionnaireinfernal.pdf#page=604|Dictionary PDF 604]] · [[sources/ac_goetia.pdf#page=56|Goetia PDF 56]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

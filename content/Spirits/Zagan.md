@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]] · [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Zagam (Dictionnaire Infernal)|Zagam — Infernal Dictionary]]. **Corresponding accounts.** King/president as griffin-winged bull, changing liquids/metals and making fools wise. The transformations differ, and the dictionary gives thirty legions against the Goetia’s thirty-three.
+
+[[sources/dictionnaireinfernal.pdf#page=723|Dictionary PDF 723]] · [[sources/ac_goetia.pdf#page=45|Goetia PDF 45]] · [[sources/ac_goetia.pdf#page=94|Goetia PDF 94]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

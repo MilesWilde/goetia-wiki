@@ -70,3 +70,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Paymon (Dictionnaire Infernal)|Paymon — Infernal Dictionary]]. **Corresponding accounts.** Crowned dromedary rider with two hundred legions of Angels/Powers and two named attendants matches numbered Paimon. The dictionary names Bebal and Abalam as companions; the Goetia names Labal and Abalim. Bebal’s identity with Labal remains unconfirmed.
+
+[[sources/dictionnaireinfernal.pdf#page=533|Dictionary PDF 533]] · [[sources/ac_goetia.pdf#page=29|Goetia PDF 29]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

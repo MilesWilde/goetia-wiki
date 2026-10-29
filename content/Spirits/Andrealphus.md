@@ -68,3 +68,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Androalphus (Dictionnaire Infernal)|Androalphus — Infernal Dictionary]]. **Corresponding accounts.** Peacock then human, geometry/astronomy, transforming people into birds. The dictionary writes Androalphus; the Goetia writes Andrealphus.
+
+[[sources/dictionnaireinfernal.pdf#page=45|Dictionary PDF 45]] · [[sources/ac_goetia.pdf#page=46|Goetia PDF 46]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

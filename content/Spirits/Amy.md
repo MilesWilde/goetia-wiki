@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Amy (Dictionnaire Infernal)|Amy — Infernal Dictionary]]. **Corresponding accounts.** President appearing in fire then human form, astrology/liberal arts and guarded treasure, thirty-six legions. The dictionary gives its own account of his hoped-for restoration to heaven.
+
+[[sources/dictionnaireinfernal.pdf#page=43|Dictionary PDF 43]] · [[sources/ac_goetia.pdf#page=44|Goetia PDF 44]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

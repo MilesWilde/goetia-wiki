@@ -27,3 +27,11 @@ The passage gives no individual description, direction, or legion count for Azä
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Angels/Azael (Dictionnaire Infernal)|Azael — Infernal Dictionary]]. **Shared name.** Same separately named rabbinic rebellious spirit; Goetia lists Azäel distinctly from Azazel. The Goetia attests the name without describing the confinement story given in the dictionary.
+
+[[sources/dictionnaireinfernal.pdf#page=81|Dictionary PDF 81]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

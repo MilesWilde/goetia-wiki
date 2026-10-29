@@ -68,3 +68,15 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Earls and Counts|Earl]] · [[Goetia Ranks#Princes and Prelates|Prince]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Ipes (Dictionnaire Infernal)|Ipes — Infernal Dictionary]]. **Corresponding accounts.** The dictionary also calls him Ayperos; angel/lion, goose feet, hare tail, knowledge, boldness and thirty-six legions. The dictionary repeats similar traits under Valafar, creating a discrepancy rather than establishing that the names are interchangeable.
+
+[[sources/dictionnaireinfernal.pdf#page=81|Dictionary PDF 81]] · [[sources/dictionnaireinfernal.pdf#page=378|Dictionary PDF 378]] · [[sources/ac_goetia.pdf#page=33|Goetia PDF 33]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]] · [[sources/ac_goetia.pdf#page=95|Goetia PDF 95]]
+
+[[Infernal Dictionary/Demons/Valafar (Dictionnaire Infernal)|Valafar — Infernal Dictionary]]. **Qualified comparison.** The Dictionnaire Valafar entry describes an angel or lion with goose features, a hare’s tail, knowledge, boldness, and thirty-six legions: traits also associated with Ipos. The entry is headed Valafar. Its repeated Ipos-like description is a textual discrepancy rather than an established identity.
+
+[[sources/dictionnaireinfernal.pdf#page=688|Dictionary PDF 688]] · [[sources/ac_goetia.pdf#page=33|Goetia PDF 33]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]] · [[sources/ac_goetia.pdf#page=95|Goetia PDF 95]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

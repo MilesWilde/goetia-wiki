@@ -63,3 +63,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Phoenix (Dictionnaire Infernal)|Phoenix — Infernal Dictionary]]. **Corresponding accounts.** Phoenix bird with child's voice and song, then human, science and poetry, twenty legions. The accounts differ in the expected restoration period and the heavenly order to which he hopes to return.
+
+[[sources/dictionnaireinfernal.pdf#page=537|Dictionary PDF 537]] · [[sources/ac_goetia.pdf#page=38|Goetia PDF 38]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

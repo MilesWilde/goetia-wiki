@@ -30,3 +30,11 @@ The later [[Goetia Explanation of Names|explanatory prayer]] uses the spelling M
 ## Related notes
 
 [[Goetia Angels and Orders]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Angels/Metatron (Dictionnaire Infernal)|Metatron — Infernal Dictionary]]. **Corresponding accounts.** The dictionary names Metatron as one of three superior cabalistic intelligences; Goetia explicitly names Metatron in the Kether correspondence and Methrattton in its explanatory prayer. The dictionary groups Metatron with Acatriel and Sandalphon; the Goetia places him among distinct angelic and divine correspondences.
+
+[[sources/dictionnaireinfernal.pdf#page=252|Dictionary PDF 252]] · [[sources/dictionnaireinfernal.pdf#page=469|Dictionary PDF 469]] · [[sources/ac_goetia.pdf#page=52|Goetia PDF 52]] · [[sources/ac_goetia.pdf#page=69|Goetia PDF 69]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Gusoyn (Dictionnaire Infernal)|Gusoyn — Infernal Dictionary]]. **Corresponding accounts.** Duke answering past/present/future, revealing hidden matters and conferring/confirming honours. The dictionary gives a camel appearance and forty-five legions; the Goetia leaves Xenopilus unexplained and gives forty legions.
+
+[[sources/dictionnaireinfernal.pdf#page=328|Dictionary PDF 328]] · [[sources/ac_goetia.pdf#page=30|Goetia PDF 30]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

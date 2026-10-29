@@ -66,3 +66,11 @@ Image printed beside Decarbia's entry on [[sources/ac_goetia.pdf#page=47|PDF 47]
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Carabia (Dictionnaire Infernal)|Carabia — Infernal Dictionary]]. **Corresponding accounts.** Carabia or Decarabia appears as a five-rayed star, knows plants/stones and controls familiar birds, thirty legions. The dictionary gives king and count titles; the Goetia calls Decarbia a marquis.
+
+[[sources/dictionnaireinfernal.pdf#page=148|Dictionary PDF 148]] · [[sources/ac_goetia.pdf#page=47|Goetia PDF 47]] · [[sources/ac_goetia.pdf#page=48|Goetia PDF 48]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

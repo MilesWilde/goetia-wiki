@@ -69,3 +69,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]] · [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Vine (Dictionnaire Infernal)|Vine — Infernal Dictionary]]. **Corresponding accounts.** Lion on black horse holding viper, king/count, building and disturbing water. The dictionary gives nineteen legions; the Goetia gives thirty-six.
+
+[[sources/dictionnaireinfernal.pdf#page=700|Dictionary PDF 700]] · [[sources/ac_goetia.pdf#page=40|Goetia PDF 40]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

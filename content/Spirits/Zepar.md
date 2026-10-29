@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Zepar (Dictionnaire Infernal)|Zepar — Infernal Dictionary]]. **Corresponding accounts.** Duke in warrior form promoting sexual passions; name and form correspond to Zepar. The dictionary gives twenty-eight legions; the Goetia gives twenty-six. The dictionary only suggests an identification with Vepar.
+
+[[sources/dictionnaireinfernal.pdf#page=724|Dictionary PDF 724]] · [[sources/ac_goetia.pdf#page=31|Goetia PDF 31]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

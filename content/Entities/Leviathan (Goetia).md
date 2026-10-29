@@ -27,3 +27,11 @@ The original prefatory passage does not name the princes, and this PDF gives Lev
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Belial]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Leviathan (Dictionnaire Infernal)|Leviathan — Infernal Dictionary]]. **Shared name.** Same named infernal figure; Goetia electronic editor names Leviathan among proposed Four Great Princes. The Goetia attests the name without giving the dictionary’s admiral and fish traditions.
+
+[[sources/dictionnaireinfernal.pdf#page=418|Dictionary PDF 418]] · [[sources/ac_goetia.pdf#page=88|Goetia PDF 88]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

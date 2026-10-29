@@ -69,3 +69,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Martym (Dictionnaire Infernal)|Martym — Infernal Dictionary]]. **Corresponding accounts.** Martym or Batym is a serpent-tailed robust man on a pale horse who teaches herbs/stones and rapidly transports people, with thirty legions. The main dictionary entry gives Martym or Batym, while its Bathym cross-reference uses another spelling.
+
+[[sources/dictionnaireinfernal.pdf#page=96|Dictionary PDF 96]] · [[sources/dictionnaireinfernal.pdf#page=461|Dictionary PDF 461]] · [[sources/ac_goetia.pdf#page=32|Goetia PDF 32]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

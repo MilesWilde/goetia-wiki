@@ -63,3 +63,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Malphas (Dictionnaire Infernal)|Malphas — Infernal Dictionary]]. **Corresponding accounts.** President appearing as a crow then hoarse human, construction of citadels/towers and familiars. The dictionary only suggests a possible connection with Halphas; their entries remain distinct.
+
+[[sources/dictionnaireinfernal.pdf#page=451|Dictionary PDF 451]] · [[sources/dictionnaireinfernal.pdf#page=452|Dictionary PDF 452]] · [[sources/ac_goetia.pdf#page=38|Goetia PDF 38]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

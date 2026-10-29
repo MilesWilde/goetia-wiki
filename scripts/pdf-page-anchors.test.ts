@@ -7,6 +7,7 @@ test("source PDF citations open the requested viewer page after Markdown renderi
   const hrefs = [
     "../sources/ac_goetia.pdf#page27",
     "./sources/ac_goetia.pdf#page98",
+    "../../sources/dictionnaireinfernal.pdf#page739",
     "../sources/ac_goetia.pdf#page=29",
     "../sources/ac_goetia.pdf#editorial-notes",
     "https://example.com/sources/ac_goetia.pdf#page27",
@@ -20,6 +21,7 @@ test("source PDF citations open the requested viewer page after Markdown renderi
   assert.deepEqual(tree.children.map(node => node.type === "element" && node.properties.href), [
     "../sources/ac_goetia.pdf#page=27",
     "./sources/ac_goetia.pdf#page=98",
-    ...hrefs.slice(2),
+    "../../sources/dictionnaireinfernal.pdf#page=739",
+    ...hrefs.slice(3),
   ])
 })

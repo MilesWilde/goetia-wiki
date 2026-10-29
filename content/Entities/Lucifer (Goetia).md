@@ -31,3 +31,11 @@ The electronic editor also suggests Lucifer, [[Leviathan (Goetia)|Leviathan]], [
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Paimon]] · [[Belial]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Lucifer (Dictionnaire Infernal)|Lucifer — Infernal Dictionary]]. **Corresponding accounts.** The named infernal ruler appears in both sources and in both Belial narratives. The Goetia relates Lucifer to Paimon and Belial without giving him a numbered catalogue entry or equating him with Satan.
+
+[[sources/dictionnaireinfernal.pdf#page=429|Dictionary PDF 429]] · [[sources/ac_goetia.pdf#page=29|Goetia PDF 29]] · [[sources/ac_goetia.pdf#page=47|Goetia PDF 47]] · [[sources/ac_goetia.pdf#page=88|Goetia PDF 88]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

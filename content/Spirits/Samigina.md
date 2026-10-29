@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Gamygyn (Dictionnaire Infernal)|Gamygyn — Infernal Dictionary]]. **Corresponding accounts.** Small horse then hoarse human, liberal arts and an account/appearance of dead souls. The dictionary adds details about souls lost at sea and in purgatory.
+
+[[sources/dictionnaireinfernal.pdf#page=307|Dictionary PDF 307]] · [[sources/ac_goetia.pdf#page=27|Goetia PDF 27]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

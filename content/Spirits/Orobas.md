@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Princes and Prelates|Prince]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Orobas (Dictionnaire Infernal)|Orobas — Infernal Dictionary]]. **Corresponding accounts.** Horse then human, knowledge/divine answers, dignities and fidelity, twenty legions. The sources give different details about his answers and the social offices he grants.
+
+[[sources/dictionnaireinfernal.pdf#page=522|Dictionary PDF 522]] · [[sources/ac_goetia.pdf#page=43|Goetia PDF 43]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

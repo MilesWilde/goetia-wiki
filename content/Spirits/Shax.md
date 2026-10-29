@@ -68,3 +68,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Scox (Dictionnaire Infernal)|Scox — Infernal Dictionary]]. **Corresponding accounts.** Chax/Scox is a hoarse deceptive bird spirit stealing money and returning it after twelve hundred years. The dictionary describes a stork; the Goetia describes a stock-dove. Their titles and qualifications also differ.
+
+[[sources/dictionnaireinfernal.pdf#page=176|Dictionary PDF 176]] · [[sources/dictionnaireinfernal.pdf#page=613|Dictionary PDF 613]] · [[sources/dictionnaireinfernal.pdf#page=614|Dictionary PDF 614]] · [[sources/ac_goetia.pdf#page=40|Goetia PDF 40]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

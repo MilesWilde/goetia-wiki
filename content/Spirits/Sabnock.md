@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Sabnac (Dictionnaire Infernal)|Sabnac — Infernal Dictionary]]. **Corresponding accounts.** Armed lion-headed soldier on horse, fortifications and fifty legions. The dictionary describes turning people to stone; the Goetia describes wounds and sores.
+
+[[sources/dictionnaireinfernal.pdf#page=602|Dictionary PDF 602]] · [[sources/ac_goetia.pdf#page=40|Goetia PDF 40]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

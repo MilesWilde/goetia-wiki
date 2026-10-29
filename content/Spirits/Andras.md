@@ -63,3 +63,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Andras (Dictionnaire Infernal)|Andras — Infernal Dictionary]]. **Corresponding accounts.** Bird-headed angel riding a black wolf with a sword, discord, thirty legions. The dictionary gives him an owl’s head; the Goetia gives him a night-raven’s head.
+
+[[sources/dictionnaireinfernal.pdf#page=45|Dictionary PDF 45]] · [[sources/ac_goetia.pdf#page=45|Goetia PDF 45]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

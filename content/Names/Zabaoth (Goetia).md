@@ -24,3 +24,11 @@ The circle has **[[Iehovah (Goetia)|Iehovah]] Tzabaoth** and **[[Elohim (Goetia)
 Hebrew *tseva'ot* means hosts or armies; its divine-title usage is documented beyond this grimoire. [Jewish Encyclopedia, “God, Names of,” Ẓeba'ot](https://www.jewishencyclopedia.com/articles/6727-god-names-of).
 
 Related: [[Iehovah (Goetia)|Iehovah]] · [[Elohim (Goetia)|Elohim]] · [[Goetia Ritual Names]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Angels/Sabaoth (Dictionnaire Infernal)|Sabaoth — Infernal Dictionary]]. **Vocabulary comparison.** The dictionary calls Sabaoth an Archontic angel and elsewhere explains the divine title God of the heavenly hosts. The Goetia uses Sabaoth, Zabaoth, and Tzabaoth as forms of that title. The dictionary’s Archontic angel and the Goetia’s divine title use the same name in different religious contexts.
+
+[[sources/dictionnaireinfernal.pdf#page=502|Dictionary PDF 502]] · [[sources/dictionnaireinfernal.pdf#page=598|Dictionary PDF 598]] · [[sources/ac_goetia.pdf#page=52|Goetia PDF 52]] · [[sources/ac_goetia.pdf#page=61|Goetia PDF 61]] · [[sources/ac_goetia.pdf#page=62|Goetia PDF 62]] · [[sources/ac_goetia.pdf#page=63|Goetia PDF 63]] · [[sources/ac_goetia.pdf#page=70|Goetia PDF 70]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

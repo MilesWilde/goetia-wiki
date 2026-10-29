@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Gomory (Dictionnaire Infernal)|Gomory — Infernal Dictionary]]. **Corresponding accounts.** Crowned female appearance on camel, knowledge of times and hidden treasure, twenty-six legions. The dictionary places the crown on her head; the Goetia places it around her waist.
+
+[[sources/dictionnaireinfernal.pdf#page=319|Dictionary PDF 319]] · [[sources/ac_goetia.pdf#page=44|Goetia PDF 44]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

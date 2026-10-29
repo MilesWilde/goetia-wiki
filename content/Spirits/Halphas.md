@@ -69,3 +69,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#War and destruction|War and destruction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Halphas (Dictionnaire Infernal)|Halphas — Infernal Dictionary]]. **Corresponding accounts.** Bird with noisy/hoarse voice, building cities/towers and ordering war, twenty-six legions. The dictionary describes a stork; the Goetia’s main text says stock-dove, with stork in a footnote. The proposed Malphas identity remains speculative.
+
+[[sources/dictionnaireinfernal.pdf#page=333|Dictionary PDF 333]] · [[sources/ac_goetia.pdf#page=38|Goetia PDF 38]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Haagenti (Dictionnaire Infernal)|Haagenti — Infernal Dictionary]]. **Corresponding accounts.** Griffin-winged bull becoming human, wisdom, metals to gold and water/wine transformation. The dictionary gives thirty-three legions; the Goetia gives a different count.
+
+[[sources/dictionnaireinfernal.pdf#page=328|Dictionary PDF 328]] · [[sources/ac_goetia.pdf#page=41|Goetia PDF 41]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Valafar (Dictionnaire Infernal)|Valafar — Infernal Dictionary]]. **Qualified comparison.** The Dictionnaire Valafar/Malafar name invites comparison with Goetia Valefor, but its actual description is angel/lion/goose/hare with thirty-six legions. Goetia Valefor has a lion’s body, an ass’s head, a thieving familiar role, and ten legions, unlike the dictionary’s description.
+
+[[sources/dictionnaireinfernal.pdf#page=688|Dictionary PDF 688]] · [[sources/ac_goetia.pdf#page=28|Goetia PDF 28]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

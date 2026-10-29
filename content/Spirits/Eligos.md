@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Abigor (Dictionnaire Infernal)|Abigor — Infernal Dictionary]]. **Corresponding accounts.** The dictionary explicitly equates Éligor with Abigor; knight with lance/ensign, war knowledge, favour of great people, sixty legions. The dictionary’s optional sceptre differs from the serpent carried in the Goetia.
+
+[[sources/dictionnaireinfernal.pdf#page=16|Dictionary PDF 16]] · [[sources/dictionnaireinfernal.pdf#page=246|Dictionary PDF 246]] · [[sources/ac_goetia.pdf#page=31|Goetia PDF 31]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

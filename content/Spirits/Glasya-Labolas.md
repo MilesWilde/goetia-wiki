@@ -68,3 +68,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]] · [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Caacrinolaas (Dictionnaire Infernal)|Caacrinolaas — Infernal Dictionary]]. **Corresponding accounts.** The dictionary names Glassialabolas as an alias; griffin-winged dog, liberal arts, homicide, knowledge and invisibility. The dictionary explicitly redirects Glasialabolas to this entry.
+
+[[sources/dictionnaireinfernal.pdf#page=138|Dictionary PDF 138]] · [[sources/dictionnaireinfernal.pdf#page=139|Dictionary PDF 139]] · [[sources/dictionnaireinfernal.pdf#page=316|Dictionary PDF 316]] · [[sources/ac_goetia.pdf#page=34|Goetia PDF 34]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

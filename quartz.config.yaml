@@ -1,11 +1,11 @@
 configuration:
-  pageTitle: Goetia Wiki
+  pageTitle: Goetia & Infernal Dictionary
   pageTitleSuffix: ''
   enableSPA: true
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: null
+  baseUrl: mileswilde.github.io/goetia-wiki
   ignorePatterns:
   - .obsidian
   - templates
@@ -128,7 +128,8 @@ plugins:
 - source: '@quartz-community/footer'
   enabled: true
   options:
-    links: {}
+    links:
+      Source repository: https://github.com/MilesWilde/goetia-wiki
   layout:
     position: footer
     priority: 50

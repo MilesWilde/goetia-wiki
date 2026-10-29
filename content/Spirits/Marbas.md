@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Marbas (Dictionnaire Infernal)|Marbas — Infernal Dictionary]]. **Corresponding accounts.** Lion then human, hidden knowledge, disease, mechanical arts and changing human shapes, thirty-six legions. The dictionary explicitly gives Barbas as an alternative name.
+
+[[sources/dictionnaireinfernal.pdf#page=92|Dictionary PDF 92]] · [[sources/dictionnaireinfernal.pdf#page=455|Dictionary PDF 455]] · [[sources/ac_goetia.pdf#page=28|Goetia PDF 28]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

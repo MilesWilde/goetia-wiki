@@ -66,3 +66,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Princes and Prelates|Prince]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Stolas (Dictionnaire Infernal)|Stolas — Infernal Dictionary]]. **Corresponding accounts.** Bird then human prince teaching astronomy and properties of plants/precious stones, twenty-six legions. The dictionary describes an owl; the Goetia describes a raven.
+
+[[sources/dictionnaireinfernal.pdf#page=647|Dictionary PDF 647]] · [[sources/dictionnaireinfernal.pdf#page=648|Dictionary PDF 648]] · [[sources/ac_goetia.pdf#page=37|Goetia PDF 37]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

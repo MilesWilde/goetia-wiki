@@ -7,7 +7,7 @@ export function restorePdfPageAnchors(tree: Root): void {
     const href = node.properties.href
     if (node.tagName === "a" && typeof href === "string") {
       node.properties.href = href.replace(
-        /^((?:\.\.\/|\.\/)*sources\/ac_goetia\.pdf)#page([1-9][0-9]*)$/,
+        /^((?:\.\.\/|\.\/)*sources\/(?:ac_goetia|dictionnaireinfernal)\.pdf)#page([1-9][0-9]*)$/,
         "$1#page=$2",
       )
     }

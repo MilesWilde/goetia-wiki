@@ -26,3 +26,11 @@ A bloodstone gem catalogued by the Fitzwilliam Museum, dated approximately **200
 That object is a historical comparison, not an illustration supplied by this Goetia edition or proof that the invocation describes the pictured figure. The wiki keeps those kinds of evidence separate.
 
 Related: [[Goetia Divine Names]] · [[Goetia Ritual Names]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Deities/Abraxas (Dictionnaire Infernal)|Abraxas — Infernal Dictionary]]. **Name and context comparison.** The dictionary describes Abracax or Abraxas as an amuletic and Basilidian name. The Goetia uses the related form Abrasax in its preliminary invocation. The comparison concerns related names and amuletic contexts. The Goetia’s invocation does not describe the dictionary’s demonographic figure.
+
+[[sources/dictionnaireinfernal.pdf#page=16|Dictionary PDF 16]] · [[sources/dictionnaireinfernal.pdf#page=17|Dictionary PDF 17]] · [[sources/ac_goetia.pdf#page=11|Goetia PDF 11]] · [[sources/ac_goetia.pdf#page=12|Goetia PDF 12]] · [[sources/ac_goetia.pdf#page=90|Goetia PDF 90]] · [[sources/ac_goetia.pdf#page=91|Goetia PDF 91]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

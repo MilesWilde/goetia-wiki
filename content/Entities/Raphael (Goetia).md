@@ -32,3 +32,11 @@ Raphael also appears in the electronic editor's transliteration of a form of the
 ## Related notes
 
 [[Goetia Angels and Orders]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Angels/Raphael (Dictionnaire Infernal)|Raphael — Infernal Dictionary]]. **Corresponding accounts.** The dictionary explicitly identifies Raphael as the angel who imprisons Asmodeus in Egypt and lists him at the third hour. Goetia explicitly attests Raphael/Raphaë as an angel in its circle and explanatory prayer. The dictionary’s narrative and hourly assignment differ from the Goetia’s Tiphereth and Sun correspondence.
+
+[[sources/dictionnaireinfernal.pdf#page=68|Dictionary PDF 68]] · [[sources/dictionnaireinfernal.pdf#page=557|Dictionary PDF 557]] · [[sources/ac_goetia.pdf#page=52|Goetia PDF 52]] · [[sources/ac_goetia.pdf#page=70|Goetia PDF 70]] · [[sources/ac_goetia.pdf#page=95|Goetia PDF 95]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

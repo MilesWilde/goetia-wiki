@@ -166,3 +166,6 @@ These spellings are attested in the supplied edition, including its tables and n
 | [[Volac\|Valak]], [[Volac\|Valu]], [[Volac\|Ualuc]], [[Volac\|Valac]] | [[Volac]] (62) |
 
 
+
+
+[[Entity Directory|Browse both books]] · [[Source Comparisons|Compare the sources]] · [[index|Wiki home]]

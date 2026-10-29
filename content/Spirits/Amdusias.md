@@ -66,3 +66,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Amduscias (Dictionnaire Infernal)|Amduscias — Infernal Dictionary]]. **Corresponding accounts.** Unicorn becoming human, invisible instrumental music, bending trees, twenty-nine legions. The dictionary writes Amduscias; the Goetia writes Amdusias.
+
+[[sources/dictionnaireinfernal.pdf#page=37|Dictionary PDF 37]] · [[sources/ac_goetia.pdf#page=47|Goetia PDF 47]] · [[sources/ac_goetia.pdf#page=94|Goetia PDF 94]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

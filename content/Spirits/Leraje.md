@@ -72,3 +72,11 @@ The same page also places this **Beleth-labelled** seal above it, with an “or�
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Oray (Dictionnaire Infernal)|Oray — Infernal Dictionary]]. **Corresponding accounts.** Oray or Loray is an armed archer who provokes battles and worsens arrow wounds, thirty legions. The different spellings accompany the same distinctive combination of archery and worsening arrow wounds.
+
+[[sources/dictionnaireinfernal.pdf#page=423|Dictionary PDF 423]] · [[sources/dictionnaireinfernal.pdf#page=520|Dictionary PDF 520]] · [[sources/ac_goetia.pdf#page=30|Goetia PDF 30]] · [[sources/ac_goetia.pdf#page=31|Goetia PDF 31]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

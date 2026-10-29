@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]] · [[Goetia Offices and Motifs#Treasure and wealth|Treasure and wealth]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Forcas (Dictionnaire Infernal)|Forcas — Infernal Dictionary]]. **Qualified comparison.** The Dictionnaire groups Forças, Forras, and Furcas, combining Foras-like treasure, lost-object, and invisibility functions with Furcas-like appearance and divination. The Goetia separates Foras and Furcas. The dictionary combines characteristics of both, so neither comparison establishes a complete identity.
+
+[[sources/dictionnaireinfernal.pdf#page=292|Dictionary PDF 292]] · [[sources/dictionnaireinfernal.pdf#page=293|Dictionary PDF 293]] · [[sources/ac_goetia.pdf#page=35|Goetia PDF 35]] · [[sources/ac_goetia.pdf#page=36|Goetia PDF 36]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

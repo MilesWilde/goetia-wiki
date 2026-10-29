@@ -69,3 +69,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Flauros (Dictionnaire Infernal)|Flauros — Infernal Dictionary]]. **Corresponding accounts.** Goetia explicitly attests Flauros; leopard then terrible human with fiery eyes and knowledge of times. The dictionary gives twenty legions and calls him a general; the Goetia gives a different rank and count.
+
+[[sources/dictionnaireinfernal.pdf#page=290|Dictionary PDF 290]] · [[sources/ac_goetia.pdf#page=46|Goetia PDF 46]] · [[sources/ac_goetia.pdf#page=94|Goetia PDF 94]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

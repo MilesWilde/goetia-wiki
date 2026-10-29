@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#War and destruction|War and destruction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Marchocias (Dictionnaire Infernal)|Marchocias — Infernal Dictionary]]. **Corresponding accounts.** Wolf with griffin wings and serpent tail breathing fire, later human warrior, thirty legions. The dictionary describes a wolf; the Goetia discusses a wolf-versus-ox reading in its annotations.
+
+[[sources/dictionnaireinfernal.pdf#page=456|Dictionary PDF 456]] · [[sources/dictionnaireinfernal.pdf#page=457|Dictionary PDF 457]] · [[sources/ac_goetia.pdf#page=37|Goetia PDF 37]] · [[sources/ac_goetia.pdf#page=93|Goetia PDF 93]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

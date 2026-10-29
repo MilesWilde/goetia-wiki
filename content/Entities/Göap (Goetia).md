@@ -29,3 +29,11 @@ The Angelic-language [[Goetia Invocation of the King|king's invocation]] elsewhe
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Gäap]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Goap (Dictionnaire Infernal)|Goap — Infernal Dictionary]]. **Shared name.** The dictionary separately calls Goap king of the demons of the south/noon; Goetia separately names Göap among the four great kings associated with the quarters. The the dictionary entry is distinct from its Gaap-to-Tap redirect. Both sources distinguish this royal name from their numbered or separately described Gaap/Tap figure, without settling every relationship.
+
+[[sources/dictionnaireinfernal.pdf#page=317|Dictionary PDF 317]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]] · [[sources/ac_goetia.pdf#page=80|Goetia PDF 80]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

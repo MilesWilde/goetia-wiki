@@ -40,3 +40,11 @@ In the circle note, the spelling Michaël appears in the Hod sequence with [[Elo
 ## Related notes
 
 [[Goetia Angels and Orders]] · [[Belial]] · [[Goetia Human Figures]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Angels/Michael (Dictionnaire Infernal)|Michael — Infernal Dictionary]]. **Corresponding accounts.** The dictionary’s hourly angel list has Michaël at the first hour. Goetia explicitly attests Michael/Michaël as an angel and uses the name in its circle, triangle, and prayers. The dictionary assigns the first hour; the Goetia associates Michael with Hod, Mercury, and the heavenly host.
+
+[[sources/dictionnaireinfernal.pdf#page=557|Dictionary PDF 557]] · [[sources/ac_goetia.pdf#page=23|Goetia PDF 23]] · [[sources/ac_goetia.pdf#page=47|Goetia PDF 47]] · [[sources/ac_goetia.pdf#page=52|Goetia PDF 52]] · [[sources/ac_goetia.pdf#page=53|Goetia PDF 53]] · [[sources/ac_goetia.pdf#page=70|Goetia PDF 70]] · [[sources/ac_goetia.pdf#page=71|Goetia PDF 71]] · [[sources/ac_goetia.pdf#page=95|Goetia PDF 95]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

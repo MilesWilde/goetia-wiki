@@ -71,3 +71,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Nature|Nature]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Orias (Dictionnaire Infernal)|Orias — Infernal Dictionary]]. **Corresponding accounts.** Goetia explicitly gives Orias; lion on horse holding serpents, astrology, transformation, dignities and favour. The dictionary assigns the serpent’s tail to the horse; the Goetia explicitly discusses ambiguity about whose tail it is.
+
+[[sources/dictionnaireinfernal.pdf#page=520|Dictionary PDF 520]] · [[sources/ac_goetia.pdf#page=44|Goetia PDF 44]] · [[sources/ac_goetia.pdf#page=45|Goetia PDF 45]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

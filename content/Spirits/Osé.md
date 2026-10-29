@@ -70,3 +70,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Presidents|President]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Oze (Dictionnaire Infernal)|Oze — Infernal Dictionary]]. **Corresponding accounts.** President as leopard then human, liberal arts and divine answers, transformation and delusion of status. The dictionary adds a crown and a reign lasting only an hour each day.
+
+[[sources/dictionnaireinfernal.pdf#page=524|Dictionary PDF 524]] · [[sources/ac_goetia.pdf#page=44|Goetia PDF 44]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]] · [[sources/ac_goetia.pdf#page=94|Goetia PDF 94]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

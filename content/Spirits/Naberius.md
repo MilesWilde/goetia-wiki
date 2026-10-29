@@ -64,3 +64,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Cerberus (Dictionnaire Infernal)|Cerberus — Infernal Dictionary]]. **Corresponding accounts.** Nabérus/Cerberus description gives hoarse bird, rhetoric/liberal arts and nineteen legions, matching Naberius's offices/count. The dictionary equates Naberus with Cerberus and expands Nebiros’s offices. The Goetia describes a black crane rather than a raven or three-headed dog.
+
+[[sources/dictionnaireinfernal.pdf#page=162|Dictionary PDF 162]] · [[sources/dictionnaireinfernal.pdf#page=498|Dictionary PDF 498]] · [[sources/dictionnaireinfernal.pdf#page=502|Dictionary PDF 502]] · [[sources/ac_goetia.pdf#page=33|Goetia PDF 33]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

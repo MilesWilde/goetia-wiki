@@ -27,3 +27,11 @@ Their twenty-five legions are mentioned jointly. The text does not assign a pers
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Paimon]] · [[Labal (Goetia)]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Abalam (Dictionnaire Infernal)|Abalam — Infernal Dictionary]]. **Corresponding accounts.** A named attendant of Paymon/Paimon; both sources pair that companion with another royal attendant. The dictionary calls Abalam a prince; the Goetia calls Abalim a king. The identification of their companions Bebal and Labal remains uncertain.
+
+[[sources/dictionnaireinfernal.pdf#page=14|Dictionary PDF 14]] · [[sources/dictionnaireinfernal.pdf#page=533|Dictionary PDF 533]] · [[sources/ac_goetia.pdf#page=29|Goetia PDF 29]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

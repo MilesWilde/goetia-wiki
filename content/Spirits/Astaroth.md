@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Astaroth (Dictionnaire Infernal)|Astaroth — Infernal Dictionary]]. **Corresponding accounts.** Duke depicted as an angel on a dragon with a viper and dangerous breath; knowledge of events and liberal arts. The dictionary puts the viper in his left hand; the Goetia puts it in his right.
+
+[[sources/dictionnaireinfernal.pdf#page=69|Dictionary PDF 69]] · [[sources/dictionnaireinfernal.pdf#page=70|Dictionary PDF 70]] · [[sources/ac_goetia.pdf#page=35|Goetia PDF 35]] · [[sources/ac_goetia.pdf#page=51|Goetia PDF 51]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

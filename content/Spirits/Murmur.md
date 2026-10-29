@@ -69,3 +69,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]] · [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Murmur (Dictionnaire Infernal)|Murmur — Infernal Dictionary]]. **Corresponding accounts.** Duke/count in warrior form with ducal crown, trumpet escort, former Angels/Thrones. The dictionary gives him a vulture mount; the Goetia gives him a gryphon.
+
+[[sources/dictionnaireinfernal.pdf#page=495|Dictionary PDF 495]] · [[sources/ac_goetia.pdf#page=43|Goetia PDF 43]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

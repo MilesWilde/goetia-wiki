@@ -27,3 +27,11 @@ The passage gives no individual description, direction, or legion count for Azaz
 ## Related notes
 
 [[Goetia Other Spirits]] · [[Goetia Entity Index]]
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Azazel (Dictionnaire Infernal)|Azazel — Infernal Dictionary]]. **Shared name.** Both sources name Azazel in rabbinic demonological contexts and separately name Azael/Azäel. The Goetia’s brief name reference does not supply the dictionary’s scapegoat narrative.
+
+[[sources/dictionnaireinfernal.pdf#page=81|Dictionary PDF 81]] · [[sources/dictionnaireinfernal.pdf#page=82|Dictionary PDF 82]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

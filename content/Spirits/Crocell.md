@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Pucel (Dictionnaire Infernal)|Pucel — Infernal Dictionary]]. **Corresponding accounts.** Angel form, geometry/liberal arts, water sounds where no water exists, forty-eight legions. The dictionary only suggests an identification with Pocel; that suggestion does not establish a shared identity with Crocell.
+
+[[sources/dictionnaireinfernal.pdf#page=575|Dictionary PDF 575]] · [[sources/ac_goetia.pdf#page=42|Goetia PDF 42]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

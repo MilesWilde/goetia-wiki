@@ -70,3 +70,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Healing and affliction|Healing and affliction]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Vepar (Dictionnaire Infernal)|Vepar — Infernal Dictionary]]. **Corresponding accounts.** Mermaid duke, ships and venomous wounds, twenty-nine legions. The dictionary emphasizes merchant ships and exorcism. The Goetia gives different maritime and wound details; the dictionary’s Zepar identification is speculative.
+
+[[sources/dictionnaireinfernal.pdf#page=616|Dictionary PDF 616]] · [[sources/dictionnaireinfernal.pdf#page=698|Dictionary PDF 698]] · [[sources/ac_goetia.pdf#page=39|Goetia PDF 39]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

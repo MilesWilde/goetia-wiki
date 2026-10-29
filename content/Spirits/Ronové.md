@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Marquises|Marquis]] · [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Love and influence|Love and influence]] · [[Goetia Offices and Motifs#Dignity and service|Dignity and service]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Ronwe (Dictionnaire Infernal)|Ronwe — Infernal Dictionary]]. **Corresponding accounts.** Marquis/count appearing as monster, language teaching and favour, nineteen cohorts. The dictionary uses Ronwe; the Goetia uses Ronove and gives its own account of his offices.
+
+[[sources/dictionnaireinfernal.pdf#page=596|Dictionary PDF 596]] · [[sources/ac_goetia.pdf#page=34|Goetia PDF 34]] · [[sources/ac_goetia.pdf#page=50|Goetia PDF 50]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

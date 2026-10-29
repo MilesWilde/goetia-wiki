@@ -65,3 +65,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Dukes|Duke]].
 
 Offices: [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#War and destruction|War and destruction]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Focalor (Dictionnaire Infernal)|Focalor — Infernal Dictionary]]. **Corresponding accounts.** Winged human, control of winds and sea, drowning and overturning ships, thirty legions. The dictionary calls him a general; the Goetia calls him a duke.
+
+[[sources/dictionnaireinfernal.pdf#page=291|Dictionary PDF 291]] · [[sources/ac_goetia.pdf#page=39|Goetia PDF 39]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

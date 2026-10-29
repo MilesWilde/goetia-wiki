@@ -75,3 +75,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Kings|King]].
 
 Offices: [[Goetia Offices and Motifs#Love and influence|Love and influence]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Byleth (Dictionnaire Infernal)|Byleth — Infernal Dictionary]]. **Corresponding accounts.** Furious king on a pale/white horse preceded by music, triangle constraint and protective ring, eighty-five legions. The dictionary adds cats as musicians and a reference to wine.
+
+[[sources/dictionnaireinfernal.pdf#page=138|Dictionary PDF 138]] · [[sources/ac_goetia.pdf#page=30|Goetia PDF 30]] · [[sources/ac_goetia.pdf#page=31|Goetia PDF 31]] · [[sources/ac_goetia.pdf#page=49|Goetia PDF 49]] · [[sources/ac_goetia.pdf#page=93|Goetia PDF 93]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]

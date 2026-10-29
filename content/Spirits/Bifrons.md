@@ -67,3 +67,11 @@ The seal is the entry’s identifying emblem. The appearance described above com
 Ranks: [[Goetia Ranks#Earls and Counts|Earl]].
 
 Offices: [[Goetia Offices and Motifs#Knowledge|Knowledge]] · [[Goetia Offices and Motifs#Nature|Nature]] · [[Goetia Offices and Motifs#Spirits and the dead|Spirits and the dead]] · [[Goetia Offices and Motifs#Movement and transformation|Movement and transformation]].
+
+## Compare the other source
+
+[[Infernal Dictionary/Demons/Bifrons (Dictionnaire Infernal)|Bifrons — Infernal Dictionary]]. **Corresponding accounts.** Monster becoming human, astrology/geometry, plants/stones, moving corpses and lights on graves. The Goetia records competing readings of six, sixty, and twenty-six legions in its text and annotations.
+
+[[sources/dictionnaireinfernal.pdf#page=111|Dictionary PDF 111]] · [[sources/ac_goetia.pdf#page=41|Goetia PDF 41]]
+
+[[Source Comparisons|All source comparisons]] · [[Entity Directory|All names]]
