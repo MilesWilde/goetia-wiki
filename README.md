@@ -1,5 +1,7 @@
 # Goetia Wiki
 
+Read the wiki at **[mileswilde.github.io/goetia-wiki](https://mileswilde.github.io/goetia-wiki/)**.
+
 A linked reference to the 72 spirits, named figures, ritual sections, history, and illustrations in the Mathers–Crowley *Goetia*. Notes distinguish the supplied edition from later commentary and contextual sources, and cite the PDF by viewer page.
 
 The wiki is built with [Quartz](https://quartz.jzhao.xyz/) and published through GitHub Pages. Search, backlinks, graph views, hover previews, and light/dark themes work in the browser. Fonts use the reader's installed system fonts; analytics are disabled.
