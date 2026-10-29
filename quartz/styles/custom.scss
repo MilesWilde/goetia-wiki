@@ -9,6 +9,24 @@
 .page-title { letter-spacing: -0.025em; }
 article { line-height: 1.7; }
 article img { border-radius: 4px; }
+
+article .illustrated-profile {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  vertical-align: middle;
+  margin-block: 0.15rem;
+}
+
+article img.entity-portrait-thumbnail {
+  width: 36px;
+  height: 36px;
+  flex: 0 0 36px;
+  margin: 0;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--lightgray);
+}
 a:focus-visible, button:focus-visible, input:focus-visible {
   outline: 2px solid var(--secondary);
   outline-offset: 4px;
