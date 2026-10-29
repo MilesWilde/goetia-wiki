@@ -1,0 +1,52 @@
+name: Publish Goetia Wiki
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - uses: actions/configure-pages@v5
+        id: pages
+      - run: npm ci
+      - run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - run: node --import tsx scripts/pdf-page-anchors.test.ts
+      - run: node --import tsx scripts/local-graph-libraries.test.ts
+      - run: npm run build
+        env:
+          GOETIA_BASE_URL: ${{ steps.pages.outputs.base_url }}
+      - run: python3 scripts/check_site.py public
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

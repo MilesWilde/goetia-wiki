@@ -1,0 +1,15 @@
+@use "./variables.scss" as *;
+
+:root {
+  --headerFont: Georgia, "Times New Roman", serif;
+  --bodyFont: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --codeFont: ui-monospace, "Cascadia Code", "Liberation Mono", monospace;
+}
+
+.page-title { letter-spacing: -0.025em; }
+article { line-height: 1.7; }
+article img { border-radius: 4px; }
+a:focus-visible, button:focus-visible, input:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 4px;
+}

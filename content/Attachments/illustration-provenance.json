@@ -1,0 +1,1801 @@
+{
+  "source": "sources/ac_goetia.pdf",
+  "source_sha256": "98b58014801dbaa290a5934d5de5e71396e8f48419417b8f31c43839050f29e3",
+  "pdf_pages": 98,
+  "created": "2026-10-27",
+  "purpose": "Reproduce artwork from the supplied edition; not reconstructed seals or portraits. Coordinates are PDF points, origin top-left. Raster cropping preserves source content. Source variants and mismatches remain documented.",
+  "assets": [
+    {
+      "file": "Attachments/Seals/01-bael-1.png",
+      "pdf_page": 27,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        123.760009765625,
+        165.0,
+        226.760009765625
+      ],
+      "spirit_number": 1,
+      "spirit_name": "Bael",
+      "position": 1,
+      "source_glyph": ")",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/02-agares-1.png",
+      "pdf_page": 27,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        276.8798522949219,
+        165.0,
+        379.8798522949219
+      ],
+      "spirit_number": 2,
+      "spirit_name": "Agares",
+      "position": 1,
+      "source_glyph": "*",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/03-vassago-1.png",
+      "pdf_page": 27,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        480.8800048828125,
+        165.0,
+        583.8800048828125
+      ],
+      "spirit_number": 3,
+      "spirit_name": "Vassago",
+      "position": 1,
+      "source_glyph": "+",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/04-samigina-1.png",
+      "pdf_page": 27,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        587.6799926757812,
+        165.0,
+        690.6799926757812
+      ],
+      "spirit_number": 4,
+      "spirit_name": "Samigina",
+      "position": 1,
+      "source_glyph": ",",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/05-marbas-1.png",
+      "pdf_page": 28,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 5,
+      "spirit_name": "Marbas",
+      "position": 1,
+      "source_glyph": "-",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/06-valefor-1.png",
+      "pdf_page": 28,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        238.95999145507812,
+        165.0,
+        341.9599914550781
+      ],
+      "spirit_number": 6,
+      "spirit_name": "Valefor",
+      "position": 1,
+      "source_glyph": ".",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/07-amon-1.png",
+      "pdf_page": 28,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        345.9998779296875,
+        165.0,
+        448.9998779296875
+      ],
+      "spirit_number": 7,
+      "spirit_name": "Amon",
+      "position": 1,
+      "source_glyph": "/",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/08-barbatos-1.png",
+      "pdf_page": 28,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        532.9600219726562,
+        165.0,
+        635.9600219726562
+      ],
+      "spirit_number": 8,
+      "spirit_name": "Barbatos",
+      "position": 1,
+      "source_glyph": "0",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/09-paimon-1.png",
+      "pdf_page": 29,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 9,
+      "spirit_name": "Paimon",
+      "position": 1,
+      "source_glyph": "1",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/09-paimon-2.png",
+      "pdf_page": 29,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        205.3599853515625,
+        165.0,
+        308.3599853515625
+      ],
+      "spirit_number": 9,
+      "spirit_name": "Paimon",
+      "position": 2,
+      "source_glyph": "2",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/10-buer-1.png",
+      "pdf_page": 29,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        579.0399780273438,
+        165.0,
+        682.0399780273438
+      ],
+      "spirit_number": 10,
+      "spirit_name": "Buer",
+      "position": 1,
+      "source_glyph": "3",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/11-gusion-1.png",
+      "pdf_page": 30,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 11,
+      "spirit_name": "Gusion",
+      "position": 1,
+      "source_glyph": "4",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/12-sitri-1.png",
+      "pdf_page": 30,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        222.15985107421875,
+        165.0,
+        325.15985107421875
+      ],
+      "spirit_number": 12,
+      "spirit_name": "Sitri",
+      "position": 1,
+      "source_glyph": "5",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/13-beleth-1.png",
+      "pdf_page": 30,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        381.7598876953125,
+        165.0,
+        484.7598876953125
+      ],
+      "spirit_number": 13,
+      "spirit_name": "Beleth",
+      "position": 1,
+      "source_glyph": "6",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/13-beleth-2.png",
+      "pdf_page": 30,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        501.03997802734375,
+        165.0,
+        604.0399780273438
+      ],
+      "spirit_number": 13,
+      "spirit_name": "Beleth",
+      "position": 2,
+      "source_glyph": "7",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/14-leraje-1.png",
+      "pdf_page": 31,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        147.99993896484375,
+        165.0,
+        250.99993896484375
+      ],
+      "spirit_number": 14,
+      "spirit_name": "Leraje",
+      "position": 1,
+      "source_glyph": "7",
+      "note": "Seal labelled Beleth at the Beleth/Leraje page boundary; attribution to Leraje is uncertain.",
+      "association_status": "ambiguous adjacent placement"
+    },
+    {
+      "file": "Attachments/Seals/14-leraje-2.png",
+      "pdf_page": 31,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        267.2799987792969,
+        165.0,
+        370.2799987792969
+      ],
+      "spirit_number": 14,
+      "spirit_name": "Leraje",
+      "position": 2,
+      "source_glyph": "8",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/15-eligos-1.png",
+      "pdf_page": 31,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        374.31988525390625,
+        165.0,
+        477.31988525390625
+      ],
+      "spirit_number": 15,
+      "spirit_name": "Eligos",
+      "position": 1,
+      "source_glyph": ":",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/16-zepar-1.png",
+      "pdf_page": 31,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        493.3599853515625,
+        165.0,
+        596.3599853515625
+      ],
+      "spirit_number": 16,
+      "spirit_name": "Zepar",
+      "position": 1,
+      "source_glyph": ";",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/17-botis-1.png",
+      "pdf_page": 31,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        612.1600341796875,
+        165.0,
+        715.1600341796875
+      ],
+      "spirit_number": 17,
+      "spirit_name": "Botis",
+      "position": 1,
+      "source_glyph": "<",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/18-bathin-1.png",
+      "pdf_page": 32,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        80.08001708984375,
+        165.0,
+        183.08001708984375
+      ],
+      "spirit_number": 18,
+      "spirit_name": "Bathin",
+      "position": 1,
+      "source_glyph": "=",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/18-bathin-2.png",
+      "pdf_page": 32,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        199.3599853515625,
+        165.0,
+        302.3599853515625
+      ],
+      "spirit_number": 18,
+      "spirit_name": "Bathin",
+      "position": 2,
+      "source_glyph": ">",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/19-sallos-1.png",
+      "pdf_page": 32,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        306.1598205566406,
+        165.0,
+        409.1598205566406
+      ],
+      "spirit_number": 19,
+      "spirit_name": "Sallos",
+      "position": 1,
+      "source_glyph": "?",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/20-purson-1.png",
+      "pdf_page": 32,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        425.199951171875,
+        165.0,
+        528.199951171875
+      ],
+      "spirit_number": 20,
+      "spirit_name": "Purson",
+      "position": 1,
+      "source_glyph": "@",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/21-marax-1.png",
+      "pdf_page": 33,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 21,
+      "spirit_name": "Marax",
+      "position": 1,
+      "source_glyph": "A",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/22-ipos-1.png",
+      "pdf_page": 33,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        248.07998657226562,
+        165.0,
+        351.0799865722656
+      ],
+      "spirit_number": 22,
+      "spirit_name": "Ipos",
+      "position": 1,
+      "source_glyph": "B",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/23-aim-1.png",
+      "pdf_page": 33,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        374.0799865722656,
+        165.0,
+        477.0799865722656
+      ],
+      "spirit_number": 23,
+      "spirit_name": "Aim",
+      "position": 1,
+      "source_glyph": "C",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/24-naberius-1.png",
+      "pdf_page": 33,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        572.0799560546875,
+        165.0,
+        675.0799560546875
+      ],
+      "spirit_number": 24,
+      "spirit_name": "Naberius",
+      "position": 1,
+      "source_glyph": "D",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/25-glasya-labolas-1.png",
+      "pdf_page": 34,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 25,
+      "spirit_name": "Glasya-Labolas",
+      "position": 1,
+      "source_glyph": "E",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/26-bune-1.png",
+      "pdf_page": 34,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        238.95993041992188,
+        165.0,
+        341.9599304199219
+      ],
+      "spirit_number": 26,
+      "spirit_name": "Buné",
+      "position": 1,
+      "source_glyph": "F",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/26-bune-2.png",
+      "pdf_page": 34,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        358.4800109863281,
+        165.0,
+        461.4800109863281
+      ],
+      "spirit_number": 26,
+      "spirit_name": "Buné",
+      "position": 2,
+      "source_glyph": "G",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/27-ronove-1.png",
+      "pdf_page": 34,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        465.2799072265625,
+        165.0,
+        568.2799072265625
+      ],
+      "spirit_number": 27,
+      "spirit_name": "Ronové",
+      "position": 1,
+      "source_glyph": "H",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/28-berith-1.png",
+      "pdf_page": 34,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        584.3200073242188,
+        165.0,
+        687.3200073242188
+      ],
+      "spirit_number": 28,
+      "spirit_name": "Berith",
+      "position": 1,
+      "source_glyph": "I",
+      "note": "A faint horizontal rule is present in the source glyph and is retained.",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/29-astaroth-1.png",
+      "pdf_page": 35,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        185.679931640625,
+        165.0,
+        288.679931640625
+      ],
+      "spirit_number": 29,
+      "spirit_name": "Astaroth",
+      "position": 1,
+      "source_glyph": "J",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/30-forneus-1.png",
+      "pdf_page": 35,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        440.79998779296875,
+        165.0,
+        543.7999877929688
+      ],
+      "spirit_number": 30,
+      "spirit_name": "Forneus",
+      "position": 1,
+      "source_glyph": "K",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/31-foras-1.png",
+      "pdf_page": 35,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        606.8800048828125,
+        165.0,
+        708.8800048828125
+      ],
+      "spirit_number": 31,
+      "spirit_name": "Foras",
+      "position": 1,
+      "source_glyph": "L",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/32-asmoday-1.png",
+      "pdf_page": 36,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        120.15997314453125,
+        165.0,
+        223.15997314453125
+      ],
+      "spirit_number": 32,
+      "spirit_name": "Asmoday",
+      "position": 1,
+      "source_glyph": "M",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/33-gaap-1.png",
+      "pdf_page": 36,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        561.9998168945312,
+        165.0,
+        664.9998168945312
+      ],
+      "spirit_number": 33,
+      "spirit_name": "Gäap",
+      "position": 1,
+      "source_glyph": "N",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/34-furfur-1.png",
+      "pdf_page": 37,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        188.07989501953125,
+        165.0,
+        291.07989501953125
+      ],
+      "spirit_number": 34,
+      "spirit_name": "Furfur",
+      "position": 1,
+      "source_glyph": "O",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/35-marchosias-1.png",
+      "pdf_page": 37,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        392.0799865722656,
+        165.0,
+        495.0799865722656
+      ],
+      "spirit_number": 35,
+      "spirit_name": "Marchosias",
+      "position": 1,
+      "source_glyph": "P",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/36-stolas-1.png",
+      "pdf_page": 37,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        596.0800170898438,
+        165.0,
+        699.0800170898438
+      ],
+      "spirit_number": 36,
+      "spirit_name": "Stolas",
+      "position": 1,
+      "source_glyph": "Q",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/37-phenex-1.png",
+      "pdf_page": 38,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 37,
+      "spirit_name": "Phenex",
+      "position": 1,
+      "source_glyph": "R",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/38-halphas-1.png",
+      "pdf_page": 38,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        290.0797424316406,
+        165.0,
+        393.0797424316406
+      ],
+      "spirit_number": 38,
+      "spirit_name": "Halphas",
+      "position": 1,
+      "source_glyph": "S",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/39-malphas-1.png",
+      "pdf_page": 38,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        426.15997314453125,
+        165.0,
+        529.1599731445312
+      ],
+      "spirit_number": 39,
+      "spirit_name": "Malphas",
+      "position": 1,
+      "source_glyph": "T",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/40-raum-1.png",
+      "pdf_page": 39,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 40,
+      "spirit_name": "Räum",
+      "position": 1,
+      "source_glyph": "U",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/41-focalor-1.png",
+      "pdf_page": 39,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        273.0399475097656,
+        165.0,
+        376.0399475097656
+      ],
+      "spirit_number": 41,
+      "spirit_name": "Focalor",
+      "position": 1,
+      "source_glyph": "V",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/42-vepar-1.png",
+      "pdf_page": 39,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        454.0,
+        165.0,
+        557.0
+      ],
+      "spirit_number": 42,
+      "spirit_name": "Vepar",
+      "position": 1,
+      "source_glyph": "W",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/42-vepar-2.png",
+      "pdf_page": 39,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        569.4400024414062,
+        165.0,
+        672.4400024414062
+      ],
+      "spirit_number": 42,
+      "spirit_name": "Vepar",
+      "position": 2,
+      "source_glyph": "X",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/43-sabnock-1.png",
+      "pdf_page": 40,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 43,
+      "spirit_name": "Sabnock",
+      "position": 1,
+      "source_glyph": "Y",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/44-shax-1.png",
+      "pdf_page": 40,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        273.0400085449219,
+        165.0,
+        376.0400085449219
+      ],
+      "spirit_number": 44,
+      "spirit_name": "Shax",
+      "position": 1,
+      "source_glyph": "Z",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/45-vine-1.png",
+      "pdf_page": 40,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        528.1600341796875,
+        165.0,
+        631.1600341796875
+      ],
+      "spirit_number": 45,
+      "spirit_name": "Viné",
+      "position": 1,
+      "source_glyph": "[",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/46-bifrons-1.png",
+      "pdf_page": 41,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 46,
+      "spirit_name": "Bifrons",
+      "position": 1,
+      "source_glyph": "\\",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/47-uvall-1.png",
+      "pdf_page": 41,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        290.7999267578125,
+        165.0,
+        393.7999267578125
+      ],
+      "spirit_number": 47,
+      "spirit_name": "Uvall",
+      "position": 1,
+      "source_glyph": "]",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/47-uvall-2.png",
+      "pdf_page": 41,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        410.0799865722656,
+        165.0,
+        513.0799865722656
+      ],
+      "spirit_number": 47,
+      "spirit_name": "Uvall",
+      "position": 2,
+      "source_glyph": "^",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/48-haagenti-1.png",
+      "pdf_page": 41,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        517.1199951171875,
+        165.0,
+        620.1199951171875
+      ],
+      "spirit_number": 48,
+      "spirit_name": "Haagenti",
+      "position": 1,
+      "source_glyph": "_",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/49-crocell-1.png",
+      "pdf_page": 42,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 49,
+      "spirit_name": "Crocell",
+      "position": 1,
+      "source_glyph": "`",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/50-furcas-1.png",
+      "pdf_page": 42,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        273.0400085449219,
+        165.0,
+        376.0400085449219
+      ],
+      "spirit_number": 50,
+      "spirit_name": "Furcas",
+      "position": 1,
+      "source_glyph": "a",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/51-balam-1.png",
+      "pdf_page": 42,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        409.1199951171875,
+        165.0,
+        512.1199951171875
+      ],
+      "spirit_number": 51,
+      "spirit_name": "Balam",
+      "position": 1,
+      "source_glyph": "b",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/52-alloces-1.png",
+      "pdf_page": 42,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        579.0399780273438,
+        165.0,
+        682.0399780273438
+      ],
+      "spirit_number": 52,
+      "spirit_name": "Alloces",
+      "position": 1,
+      "source_glyph": "c",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/53-camio-1.png",
+      "pdf_page": 43,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 53,
+      "spirit_name": "Camio",
+      "position": 1,
+      "source_glyph": "d",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/54-murmur-1.png",
+      "pdf_page": 43,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        307.1197204589844,
+        165.0,
+        410.1197204589844
+      ],
+      "spirit_number": 54,
+      "spirit_name": "Murmur",
+      "position": 1,
+      "source_glyph": "e",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/55-orobas-1.png",
+      "pdf_page": 43,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        511.1199951171875,
+        165.0,
+        614.1199951171875
+      ],
+      "spirit_number": 55,
+      "spirit_name": "Orobas",
+      "position": 1,
+      "source_glyph": "f",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/56-gremory-1.png",
+      "pdf_page": 44,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 56,
+      "spirit_name": "Gremory",
+      "position": 1,
+      "source_glyph": "g",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/57-ose-1.png",
+      "pdf_page": 44,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        238.95999145507812,
+        165.0,
+        341.9599914550781
+      ],
+      "spirit_number": 57,
+      "spirit_name": "Osé",
+      "position": 1,
+      "source_glyph": "h",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/58-amy-1.png",
+      "pdf_page": 44,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        426.159912109375,
+        165.0,
+        529.159912109375
+      ],
+      "spirit_number": 58,
+      "spirit_name": "Amy",
+      "position": 1,
+      "source_glyph": "i",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/59-oriax-1.png",
+      "pdf_page": 44,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        562.0,
+        165.0,
+        665.0
+      ],
+      "spirit_number": 59,
+      "spirit_name": "Oriax",
+      "position": 1,
+      "source_glyph": "j",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/60-vapula-1.png",
+      "pdf_page": 45,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        171.0399169921875,
+        165.0,
+        274.0399169921875
+      ],
+      "spirit_number": 60,
+      "spirit_name": "Vapula",
+      "position": 1,
+      "source_glyph": "k",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/61-zagan-1.png",
+      "pdf_page": 45,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        307.1198425292969,
+        165.0,
+        410.1198425292969
+      ],
+      "spirit_number": 61,
+      "spirit_name": "Zagan",
+      "position": 1,
+      "source_glyph": "l",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/62-volac-1.png",
+      "pdf_page": 45,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        460.0,
+        165.0,
+        563.0
+      ],
+      "spirit_number": 62,
+      "spirit_name": "Volac",
+      "position": 1,
+      "source_glyph": "m",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/63-andras-1.png",
+      "pdf_page": 45,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        613.1199951171875,
+        165.0,
+        716.1199951171875
+      ],
+      "spirit_number": 63,
+      "spirit_name": "Andras",
+      "position": 1,
+      "source_glyph": "n",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/64-haures-1.png",
+      "pdf_page": 46,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 64,
+      "spirit_name": "Haures",
+      "position": 1,
+      "source_glyph": "o",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/65-andrealphus-1.png",
+      "pdf_page": 46,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        392.0799865722656,
+        165.0,
+        495.0799865722656
+      ],
+      "spirit_number": 65,
+      "spirit_name": "Andrealphus",
+      "position": 1,
+      "source_glyph": "p",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/66-cimejes-1.png",
+      "pdf_page": 46,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        544.9600219726562,
+        165.0,
+        647.9600219726562
+      ],
+      "spirit_number": 66,
+      "spirit_name": "Cimejes",
+      "position": 1,
+      "source_glyph": "q",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/67-amdusias-1.png",
+      "pdf_page": 47,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 67,
+      "spirit_name": "Amdusias",
+      "position": 1,
+      "source_glyph": "r",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/68-belial-1.png",
+      "pdf_page": 47,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        255.99978637695312,
+        165.0,
+        358.9997863769531
+      ],
+      "spirit_number": 68,
+      "spirit_name": "Belial",
+      "position": 1,
+      "source_glyph": "s",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/69-decarbia-1.png",
+      "pdf_page": 47,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        528.1600341796875,
+        165.0,
+        631.1600341796875
+      ],
+      "spirit_number": 69,
+      "spirit_name": "Decarbia",
+      "position": 1,
+      "source_glyph": "v",
+      "note": "Printed beside Decarbia but labelled Seere and repeated as Seere’s second seal on PDF48.",
+      "association_status": "printed attribution conflicts with label"
+    },
+    {
+      "file": "Attachments/Seals/70-seere-1.png",
+      "pdf_page": 48,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        86.08001708984375,
+        165.0,
+        189.08001708984375
+      ],
+      "spirit_number": 70,
+      "spirit_name": "Seere",
+      "position": 1,
+      "source_glyph": "u",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/70-seere-2.png",
+      "pdf_page": 48,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        201.51995849609375,
+        165.0,
+        304.51995849609375
+      ],
+      "spirit_number": 70,
+      "spirit_name": "Seere",
+      "position": 2,
+      "source_glyph": "v",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/71-dantalion-1.png",
+      "pdf_page": 48,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        324.1598815917969,
+        165.0,
+        427.1598815917969
+      ],
+      "spirit_number": 71,
+      "spirit_name": "Dantalion",
+      "position": 1,
+      "source_glyph": "w",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Seals/72-andromalius-1.png",
+      "pdf_page": 48,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        60.0,
+        528.1600341796875,
+        165.0,
+        631.1600341796875
+      ],
+      "spirit_number": 72,
+      "spirit_name": "Andromalius",
+      "position": 1,
+      "source_glyph": "x",
+      "note": "",
+      "association_status": "catalogue placement"
+    },
+    {
+      "file": "Attachments/Diagrams/magical-circle-and-triangle.png",
+      "pdf_page": 53,
+      "method": "Poppler page crop rendered at 288 dpi",
+      "crop_points": [
+        44,
+        48,
+        551,
+        731
+      ],
+      "label": "magical-circle-and-triangle"
+    },
+    {
+      "file": "Attachments/Diagrams/magical-triangle.png",
+      "pdf_page": 53,
+      "method": "Poppler page crop rendered at 288 dpi",
+      "crop_points": [
+        188,
+        48,
+        417,
+        241
+      ],
+      "label": "magical-triangle"
+    },
+    {
+      "file": "Attachments/Diagrams/hexagram-of-solomon.png",
+      "pdf_page": 54,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        190,
+        52,
+        405,
+        276
+      ],
+      "label": "hexagram-of-solomon"
+    },
+    {
+      "file": "Attachments/Diagrams/pentagram-of-solomon.png",
+      "pdf_page": 54,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        184,
+        298,
+        411,
+        514
+      ],
+      "label": "pentagram-of-solomon"
+    },
+    {
+      "file": "Attachments/Diagrams/ring-of-solomon.png",
+      "pdf_page": 54,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        184,
+        536,
+        412,
+        760
+      ],
+      "label": "ring-of-solomon"
+    },
+    {
+      "file": "Attachments/Diagrams/secret-seal-of-solomon-1.png",
+      "pdf_page": 56,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        116,
+        501,
+        270,
+        653
+      ],
+      "label": "secret-seal-of-solomon-1"
+    },
+    {
+      "file": "Attachments/Diagrams/secret-seal-of-solomon-2.png",
+      "pdf_page": 56,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        319,
+        501,
+        472,
+        653
+      ],
+      "label": "secret-seal-of-solomon-2"
+    },
+    {
+      "file": "Attachments/Diagrams/kodselim-talisman.png",
+      "pdf_page": 6,
+      "method": "MuPDF page crop rendered at 288 dpi",
+      "crop_points": [
+        195,
+        315,
+        402,
+        525
+      ],
+      "label": "kodselim-talisman"
+    },
+    {
+      "file": "Attachments/Diagrams/vessel-of-brass-1.png",
+      "pdf_page": 56,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        77.76000213623047,
+        103.760009765625,
+        279.3600158691406,
+        305.3600158691406
+      ],
+      "xref": 207,
+      "figure": null,
+      "placement_matrix": [
+        201.60000610351562,
+        0.0,
+        -0.0,
+        -201.60000610351562,
+        77.76000213623047,
+        305.3600158691406
+      ]
+    },
+    {
+      "file": "Attachments/Diagrams/vessel-of-brass-2.png",
+      "pdf_page": 56,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        360.9599914550781,
+        103.760009765625,
+        472.55999755859375,
+        304.1600036621094
+      ],
+      "xref": 209,
+      "figure": null,
+      "placement_matrix": [
+        111.5999984741211,
+        0.0,
+        -0.0,
+        -200.39999389648438,
+        360.9599914550781,
+        304.1600036621094
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-162.png",
+      "pdf_page": 57,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        84.72000122070312,
+        416.47998046875,
+        192.72000122070312,
+        524.47998046875
+      ],
+      "xref": 221,
+      "figure": 162,
+      "placement_matrix": [
+        108.0,
+        0.0,
+        -0.0,
+        -108.0,
+        84.72000122070312,
+        524.47998046875
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-163.png",
+      "pdf_page": 57,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        243.60000610351562,
+        416.47998046875,
+        351.6000061035156,
+        524.47998046875
+      ],
+      "xref": 223,
+      "figure": 163,
+      "placement_matrix": [
+        108.0,
+        0.0,
+        -0.0,
+        -108.0,
+        243.60000610351562,
+        524.47998046875
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-164.png",
+      "pdf_page": 57,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        418.0799865722656,
+        416.4800109863281,
+        495.1199951171875,
+        524.0
+      ],
+      "xref": 225,
+      "figure": 164,
+      "placement_matrix": [
+        77.04000091552734,
+        0.0,
+        -0.0,
+        -107.5199966430664,
+        418.0799865722656,
+        524.0
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-165.png",
+      "pdf_page": 58,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        78.4800033569336,
+        85.280029296875,
+        140.39999389648438,
+        232.88003540039062
+      ],
+      "xref": 241,
+      "figure": 165,
+      "placement_matrix": [
+        61.91999816894531,
+        0.0,
+        -0.0,
+        -147.60000610351562,
+        78.4800033569336,
+        232.88003540039062
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-166.png",
+      "pdf_page": 58,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        78.95999908447266,
+        252.3200225830078,
+        140.16000366210938,
+        472.4000244140625
+      ],
+      "xref": 243,
+      "figure": 166,
+      "placement_matrix": [
+        61.20000076293945,
+        0.0,
+        -0.0,
+        -220.0800018310547,
+        78.95999908447266,
+        472.4000244140625
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-167.png",
+      "pdf_page": 58,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        98.63999938964844,
+        492.3200378417969,
+        185.04000854492188,
+        578.7200317382812
+      ],
+      "xref": 245,
+      "figure": 167,
+      "placement_matrix": [
+        86.4000015258789,
+        0.0,
+        -0.0,
+        -86.4000015258789,
+        98.63999938964844,
+        578.7200317382812
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-168.png",
+      "pdf_page": 58,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        257.5199890136719,
+        492.5600280761719,
+        337.44000244140625,
+        578.9600219726562
+      ],
+      "xref": 247,
+      "figure": 168,
+      "placement_matrix": [
+        79.91999816894531,
+        0.0,
+        -0.0,
+        -86.4000015258789,
+        257.5199890136719,
+        578.9600219726562
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-169.png",
+      "pdf_page": 58,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        419.0400085449219,
+        492.55999755859375,
+        487.44000244140625,
+        579.2000122070312
+      ],
+      "xref": 249,
+      "figure": 169,
+      "placement_matrix": [
+        68.4000015258789,
+        0.0,
+        -0.0,
+        -86.63999938964844,
+        419.0400085449219,
+        579.2000122070312
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-170.png",
+      "pdf_page": 59,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        102.95999908447266,
+        85.28003692626953,
+        254.16000366210938,
+        193.0400390625
+      ],
+      "xref": 268,
+      "figure": 170,
+      "placement_matrix": [
+        151.1999969482422,
+        0.0,
+        -0.0,
+        -107.76000213623047,
+        102.95999908447266,
+        193.0400390625
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-171.png",
+      "pdf_page": 59,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        380.8800048828125,
+        85.280029296875,
+        452.8800048828125,
+        193.280029296875
+      ],
+      "xref": 270,
+      "figure": 171,
+      "placement_matrix": [
+        72.0,
+        0.0,
+        -0.0,
+        -108.0,
+        380.8800048828125,
+        193.280029296875
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-172.png",
+      "pdf_page": 59,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        104.4000015258789,
+        312.32000732421875,
+        179.27999877929688,
+        417.44000244140625
+      ],
+      "xref": 272,
+      "figure": 172,
+      "placement_matrix": [
+        74.87999725341797,
+        0.0,
+        -0.0,
+        -105.12000274658203,
+        104.4000015258789,
+        417.44000244140625
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-173.png",
+      "pdf_page": 59,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        259.9200134277344,
+        312.32000732421875,
+        334.8000183105469,
+        417.44000244140625
+      ],
+      "xref": 274,
+      "figure": 173,
+      "placement_matrix": [
+        74.87999725341797,
+        0.0,
+        -0.0,
+        -105.12000274658203,
+        259.9200134277344,
+        417.44000244140625
+      ]
+    },
+    {
+      "file": "Attachments/Comparisons/figure-174.png",
+      "pdf_page": 59,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        400.55999755859375,
+        312.32000732421875,
+        505.67999267578125,
+        417.44000244140625
+      ],
+      "xref": 276,
+      "figure": 174,
+      "placement_matrix": [
+        105.12000274658203,
+        0.0,
+        -0.0,
+        -105.12000274658203,
+        400.55999755859375,
+        417.44000244140625
+      ]
+    },
+    {
+      "file": "Attachments/Seals/halahel-figure-175.png",
+      "pdf_page": 59,
+      "method": "Embedded bitmap extracted and oriented by its PDF placement matrix; no redrawing",
+      "crop_points": [
+        65.04000091552734,
+        641.8399658203125,
+        155.04000854492188,
+        731.8399658203125
+      ],
+      "xref": 278,
+      "figure": 175,
+      "placement_matrix": [
+        90.0,
+        0.0,
+        -0.0,
+        -90.0,
+        65.04000091552734,
+        731.8399658203125
+      ]
+    }
+  ]
+}

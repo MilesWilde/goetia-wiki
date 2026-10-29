@@ -1,0 +1,11 @@
+node_modules/
+public/
+.quartz/
+.quartz-cache/
+.obsidian/
+content/.goetia-export.json
+*.tsbuildinfo
+*.log
+.DS_Store
+__pycache__/
+*.py[cod]

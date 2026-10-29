@@ -1,0 +1,201 @@
+configuration:
+  pageTitle: Goetia Wiki
+  pageTitleSuffix: ''
+  enableSPA: true
+  enablePopovers: true
+  analytics: null
+  locale: en-US
+  baseUrl: null
+  ignorePatterns:
+  - .obsidian
+  - templates
+  - private
+  - .goetia-export.json
+  theme:
+    fontOrigin: local
+    cdnCaching: false
+    typography:
+      header: Georgia
+      body: system-ui
+      code: monospace
+    colors:
+      lightMode:
+        light: '#fbf8f1'
+        lightgray: '#e6dfd1'
+        gray: '#8a8175'
+        darkgray: '#484138'
+        dark: '#221e19'
+        secondary: '#853d35'
+        tertiary: '#657358'
+        highlight: rgba(133, 61, 53, 0.10)
+        textHighlight: '#e5c98766'
+      darkMode:
+        light: '#1c1b19'
+        lightgray: '#39362f'
+        gray: '#aaa094'
+        darkgray: '#d7d0c5'
+        dark: '#f4eee3'
+        secondary: '#e7a98c'
+        tertiary: '#aab899'
+        highlight: rgba(231, 169, 140, 0.12)
+        textHighlight: '#9b763866'
+plugins:
+- source: '@quartz-community/obsidian-flavored-markdown'
+  enabled: true
+  options:
+    enableInHtmlEmbed: false
+    enableCheckbox: true
+  order: 30
+- source: '@quartz-community/github-flavored-markdown'
+  enabled: true
+  order: 40
+- source: '@quartz-community/table-of-contents'
+  enabled: true
+  order: 50
+  layout:
+    position: right
+    priority: 30
+- source: '@quartz-community/crawl-links'
+  enabled: true
+  options:
+    markdownLinkResolution: shortest
+  order: 60
+- source: '@quartz-community/description'
+  enabled: true
+  order: 70
+- source: '@quartz-community/remove-draft'
+  enabled: true
+- source: '@quartz-community/alias-redirects'
+  enabled: true
+- source: '@quartz-community/content-index'
+  enabled: true
+  options:
+    enableSiteMap: true
+    enableRSS: false
+- source: '@quartz-community/favicon'
+  enabled: true
+- source: '@quartz-community/content-page'
+  enabled: true
+- source: '@quartz-community/folder-page'
+  enabled: true
+- source: '@quartz-community/tag-page'
+  enabled: true
+- source: '@quartz-community/explorer'
+  enabled: true
+  layout:
+    position: left
+    priority: 50
+- source: '@quartz-community/graph'
+  enabled: true
+  layout:
+    position: right
+    priority: 10
+  options:
+    localGraph:
+      depth: 1
+    globalGraph:
+      depth: -1
+- source: '@quartz-community/search'
+  enabled: true
+  layout:
+    position: left
+    priority: 20
+    group: toolbar
+    groupOptions:
+      grow: true
+- source: '@quartz-community/backlinks'
+  enabled: true
+  layout:
+    position: right
+    priority: 50
+- source: '@quartz-community/page-title'
+  enabled: true
+  layout:
+    position: left
+    priority: 10
+- source: '@quartz-community/darkmode'
+  enabled: true
+  layout:
+    position: left
+    priority: 30
+    group: toolbar
+- source: '@quartz-community/breadcrumbs'
+  enabled: true
+  layout:
+    position: beforeBody
+    priority: 5
+    condition: not-index
+- source: '@quartz-community/footer'
+  enabled: true
+  options:
+    links: {}
+  layout:
+    position: footer
+    priority: 50
+- source: '@quartz-community/spacer'
+  enabled: true
+  options: {}
+  order: 25
+  layout:
+    position: left
+    priority: 25
+    display: mobile-only
+- source: '@quartz-community/bases-page'
+  enabled: true
+  options: {}
+  order: 50
+- source: '@quartz-community/note-properties'
+  enabled: true
+  options:
+    includeAll: false
+    includedProperties:
+    - description
+    - tags
+    - aliases
+    excludedProperties: []
+    hidePropertiesView: false
+    delimiters: '---'
+    language: yaml
+  order: 5
+  layout:
+    position: beforeBody
+    priority: 15
+    display: all
+    condition: not-index
+- source: '@quartz-community/unlisted-pages'
+  enabled: true
+  options: {}
+  order: 45
+- source: '@quartz-community/encrypted-pages'
+  enabled: true
+  options:
+    iterations: 600000
+    passwordField: password
+    unlistWhenEncrypted: false
+    outputPath: static/encryptedContentIndex.json
+  order: 900
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    '404':
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content: {}
+    folder:
+      exclude:
+      - reader-mode
+      positions:
+        right: []
+    tag:
+      exclude:
+      - reader-mode
+      positions:
+        right: []
+    canvas: {}
+    bases: {}

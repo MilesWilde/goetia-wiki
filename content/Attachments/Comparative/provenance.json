@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "reviewed": "2026-10-27",
+  "purpose": "Comparative historical imagery; these photographs are not illustrations extracted from sources/ac_goetia.pdf.",
+  "images": [
+    {
+      "file": "walters-57-1987-agla-brooch.jpg",
+      "title": "Amuletic Brooch, front",
+      "collection": "The Walters Art Museum",
+      "accession": "57.1987",
+      "object_date": "13th century",
+      "object_origin": "England",
+      "credit": "The Walters Art Museum; Museum purchase, 1969",
+      "source_page": "https://art.thewalters.org/object/57.1987/",
+      "download_page": "https://commons.wikimedia.org/wiki/File:English_-_Amuletic_Brooch_-_Walters_571987_-_View_A.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/English_-_Amuletic_Brooch_-_Walters_571987_-_View_A.jpg/960px-English_-_Amuletic_Brooch_-_Walters_571987_-_View_A.jpg",
+      "image_license": "CC BY-SA 3.0 (license of the downloaded Wikimedia Commons photograph)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "license_note": "The current Walters object page also publishes its own downloads under CC0. This downloaded mirror is credited under its explicit CC BY-SA 3.0 terms.",
+      "changes": "None; downloaded the existing 960px Wikimedia thumbnail without further processing.",
+      "sha256": "89605d049feb704cb84627e8f048de283f274cfc48f91472669efefbd05343d6",
+      "related_note": "Agla (Goetia)"
+    },
+    {
+      "file": "walters-57-713-christ-emmanuel.jpg",
+      "title": "Christ Emmanuel",
+      "collection": "The Walters Art Museum",
+      "accession": "57.713",
+      "object_date": "ca. 1775",
+      "object_origin": "Moscow, Russia",
+      "credit": "The Walters Art Museum; Acquired by Henry Walters",
+      "source_page": "https://art.thewalters.org/object/57.713/",
+      "download_page": "https://commons.wikimedia.org/wiki/File:Russian_-_Christ_Emmanuel_-_Walters_57713.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Russian_-_Christ_Emmanuel_-_Walters_57713.jpg/960px-Russian_-_Christ_Emmanuel_-_Walters_57713.jpg",
+      "image_license": "CC BY-SA 3.0 (license of the downloaded Wikimedia Commons photograph)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "license_note": "The current museum page offers its own downloads under CC0; the downloaded Commons photograph is credited under its explicit CC BY-SA 3.0 terms.",
+      "changes": "None; downloaded the existing 960px Wikimedia thumbnail without further processing.",
+      "sha256": "f140e68cecf78c01c64ea6aa95ac180d010ce0cce454dff254b129fb7f181efb",
+      "related_note": "Emmanuel (Goetia)"
+    }
+  ]
+}
